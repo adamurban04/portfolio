@@ -5,4 +5,28 @@ date:   2024-01-12 12:39:08 +0100
 categories: jekyll update
 ---
 
-Moving to `Ireland` was a big step in my life.  
+Moving to `Ireland` was a significant step in my life.  
+This is how it all began...
+
+**Origins**
+
+I am originally from the Czech Republic, where my education journey started at the age of 6 in the school „ZŠ U Kapličky“. 5 years later, I passed the entrance exam for the 8-year gymnasium, where I was able to truly develop my knowledge and way of thinking.
+
+**Aspiring for Ireland**
+
+A year before the graduation, I was determined to study in Ireland. I knew this could become expensive and we wouldn't be able afford it. That's why I applied for a grant from the Czech foundation "[The Kellner Family Foundation](https://www.kellnerfoundation.cz/univerzity/stipendiste/adam-urban)". With some academic achievements, I earned an interview invitation and subsequently secured funding.
+
+Around the same time, I successfully passed the Cambridge B2 First examination with Grade A and CEFR Level C1. Additionaly, I performed well in Czech national comparative exams (SCIO) in mathematics, used for czech universities admission and with the result of 95 percentile, I had backup plan.
+
+**The Road to the University of Limerick**
+
+After that there was just the graduation. Which was important to me, as the application system in Ireland is solely leaving certificate grades based. 
+Although navigating the Irish admissions process was challenging, I managed to get the acceptance letter to the wonderful University of Limerick.
+
+I felt fortunate to be there. And I still do. Just 10 days before the flight, I had no idea I would get accepted. I was in fact sure I am going to study in the Czech Republic (it’s remarkable how late Irish people get to know, whether they were accepted or not).
+
+However I didn’t leave my fate to luck and while enjoying the astonishing nature and sporting facilities, I immersed myself into studies. Currently I've completed my first semester with expectations of achieving straight A1s. The lectures were all very interesting to me, and learning in a different language added to the experience. I had a pleasure of meeting many fun-to-be-around people, and I just am genuinely happy for this opportunity.
+
+In conclusion, I intend to translate the last paragraph I wrote in Czech for my scholar-webpage on TKFF website:
+
+_“If I were to think of something I wouldn’t want to live without, it would be passion. To fearing to get excited about something and going for it is one of the most important philosophies I try to follow. To high school students contemplating about studying abroad, I would say: Do not be afraid to take a step into the unknown. You’ll be surprised how much you can accomplish when you don’t let fear stop you._
