@@ -27,4 +27,4 @@ I felt fortunate to be there, and I still do. Just 10 days before the flight, I 
   
 In conclusion, I intend to translate the last paragraph I wrote in Czech for my scholar-webpage on TKFF website:
 
-_“If I were to think of something I wouldn’t want to live without, it would be passion. To fearing to get excited about something and going for it is one of the most important philosophies I try to follow. To high school students contemplating about studying abroad, I would say: Do not be afraid to take a step into the unknown. You’ll be surprised how much you can accomplish when you don’t let fear stop you._
+>_“If I were to think of something I wouldn’t want to live without, it would be passion. To fearing to get excited about something and going for it is one of the most important philosophies I try to follow. To high school students contemplating about studying abroad, I would say: Do not be afraid to take a step into the unknown. You’ll be surprised how much you can accomplish when you don’t let fear stop you._
