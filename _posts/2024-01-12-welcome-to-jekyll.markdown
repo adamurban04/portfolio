@@ -10,7 +10,7 @@ categories: jekyll update
 Moving to `Ireland` was a significant step in my life.  
 This is how it all began...
 
-I am originally from the Czech Republic, where my education journey started at the age of 6 in the school „ZŠ U Kapličky“. 5 years later, I passed the entrance exam for the 8-year gymnasium, where I was able to truly develop my knowledge and way of thinking.
+I am originally from Orlová, a small town in the Czech Republic, where my education journey started at the age of 6 in the school „ZŠ U Kapličky“. 5 years later, I passed the entrance exam for the 8-year gymnasium, where I was able to truly develop my knowledge and way of thinking.
 
 **Aspiring for Ireland**
 
