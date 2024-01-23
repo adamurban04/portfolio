@@ -14,7 +14,7 @@ I am originally from Orlová, a small town in the Czech Republic, where my educa
 
 **Aspiring for Ireland**
 
-A year before the graduation, I was determined to study in Ireland. I knew this could become expensive and I wouldn't be able afford it. That's why I applied for a grant from the Czech foundation "[The Kellner Family Foundation](https://www.kellnerfoundation.cz/univerzity/stipendiste/adam-urban)". With some academic achievements, I earned an interview invitation and subsequently secured funding.
+A year before the graduation, I was determined to study in Ireland. I knew this could become expensive and I wouldn't be able afford it. That's why I applied for a grant from the Czech foundation "[The Kellner Family Foundation](https://www.kellnerfoundation.cz/)". With some academic achievements, I earned an interview invitation and subsequently secured funding.
 
 Around the same time, I successfully passed the Cambridge B2 First examination with Grade A and CEFR Level C1. Additionaly, I performed well in Czech national comparative exams (SCIO) in mathematics, used for czech universities admission and with the result of 95 percentile, I had a backup plan.
 
@@ -29,4 +29,4 @@ I felt fortunate to be there, and I still do. Just 10 days before the flight, I 
 
 >_“If I were to think of something I wouldn’t want to live without, it would be passion. Not fearing to get excited about something and going for it is one of the most important philosophies I try to follow. To high school students contemplating about studying abroad, I would say: Do not be afraid to take a step into the unknown. You’ll be surprised how much you can accomplish when you don’t let fear stop you._
 
-\- The translation of the last paragraph I wrote in Czech for my scholar-webpage on TKFF website:
+\- The translation of the last paragraph I wrote in Czech for my [scholar-webpage on TKFF website](https://www.kellnerfoundation.cz/univerzity/stipendiste/adam-urban):
