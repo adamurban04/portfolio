@@ -10,7 +10,7 @@ Greetings! I'm delighted to welcome you to my personal website, a dedicated spac
 
 # About Me
 
-I am a 19-year-old Computer Science student hailing from the Czech Republic. Currently in my first year at the `University of Limerick`, I am committed to pursuing excellence in the field of Computer Science. This website serves as a comprehensive overview of my academic and professional endeavors, offering insights into my growth and accomplishments.
+I am a 19-year-old Computer Science student hailing from the Czech Republic. Currently in my first year at the University of Limerick, I am committed to pursuing excellence in the field of Computer Science. This website serves as a comprehensive overview of my academic and professional endeavors, offering insights into my growth and accomplishments.
 
 # Connect with Me
 
