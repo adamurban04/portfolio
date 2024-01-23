@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first semester at the University of Limerick"
-date:   2024-01-12 12:39:08 +0100
+date:   2024-01-23 12:39:08 +0100
 categories: jekyll update
 ---
 
