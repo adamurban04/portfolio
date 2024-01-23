@@ -16,7 +16,7 @@ I am originally from Orlová, a small town in the Czech Republic, where my educa
 
 A year before the graduation, I was determined to study in Ireland. I knew this could become expensive and I wouldn't be able afford it. That's why I applied for a grant from the Czech foundation "[The Kellner Family Foundation](https://www.kellnerfoundation.cz/univerzity/stipendiste/adam-urban)". With some academic achievements, I earned an interview invitation and subsequently secured funding.
 
-Around the same time, I successfully passed the Cambridge B2 First examination with Grade A and CEFR Level C1. Additionaly, I performed well in Czech national comparative exams (SCIO) in mathematics, used for czech universities admission and with the result of 95 percentile, I had backup plan.
+Around the same time, I successfully passed the Cambridge B2 First examination with Grade A and CEFR Level C1. Additionaly, I performed well in Czech national comparative exams (SCIO) in mathematics, used for czech universities admission and with the result of 95 percentile, I had a backup plan.
 
 **The Road to the University of Limerick**
 
