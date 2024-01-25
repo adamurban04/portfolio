@@ -27,4 +27,13 @@ Since I enjoyed every lecture of every module, I knew I was ready for the exams.
 **Final Exams**
 
 While dealing with such tasks as acquiring my PPS number, applying for the SUSI grant, and getting Chrismas gifts, the time had come for me to prepare for the final exams. Drawing from my experince with midterms, I knew what to expect. Here's how it went.  
+
+| SUBJECT | GRADE |
+| ------ | ---------- |
+| INTRODUCTION TO PROGRAMMING | A1 |
+| DISCRETE MATHEMATICS | A1 |
+| FUNDAMENTALS OF COMPUTER ORGANISATION | A1 |
+| FOUNDATIONS OF COMPUTER SCIENCE | A1 |
+| REPRESENTATION AND MODELLING | A1 |
+
 Note: swimming in the evening is the perfect way to clear the mind and relax.
