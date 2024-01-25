@@ -15,7 +15,7 @@ After checking out the gym and the swimming pool, I decided I want to take advan
 
 **Midterms**
 
-Since I enjoyed every lecture of every module, I knew I was ready for the exams. It was much more interesting than high school lectures. I could actually understand why I'm learning what I'm learning, and that made it so much easier to keep me interested. With that, I knew I can achieve a good score, and so I did.
+Since I enjoyed every lecture of every module, I knew I was ready for the exams. It was much more interesting than high school lectures. I could actually understand why I'm learning what I'm learning, and that made it so much easier to keep me interested. With that, I knew I can achieve a good score.
 
 | SUBJECT | RESULT |
 | ------ | ---------- |
