@@ -9,4 +9,3 @@ categories: jekyll update
 
 After beautiful holidays with my family and friends, attending The Kellner Family Foundation scholars' meeting, I returned to Ireland. Even during the holidays, I dedicated time to improving my coding skills and preparing for the second semester. I expanded my coding portfolio and gained insights into implementing Java interfaces for GUIs. Furthermore, I am working towards establishing a tennis club as I believe it would be a great tribute to the University of Limerick.  
 
-I am also excited about the upcoming Robocode event, which I am eager to participate in. The beginning of the second semester has been fairly quick, especially with the Cooperative Education placement preparation, but I am thrilled to continue my journey.
