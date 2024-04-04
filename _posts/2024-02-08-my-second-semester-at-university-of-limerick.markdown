@@ -7,5 +7,8 @@ categories: jekyll update
 
 **Back in Ireland [ACTIVE]**
 
-After beautiful holidays with my family and friends, attending The Kellner Family Foundation scholars' meeting, I returned to Ireland. Even during the holidays, I dedicated time to improving my coding skills and preparing for the second semester. I expanded my coding portfolio and gained insights into implementing Java interfaces for GUIs. Furthermore, I am working towards establishing a tennis club as I believe it would be a great tribute to the University of Limerick.  
+After beautiful holidays with my family and friends, attending The Kellner Family Foundation scholars' meeting, I returned to Ireland. Even during the holidays, I dedicated time to improving my coding skills and preparing for the second semester. I expanded my coding portfolio and gained insights into implementing Java interfaces for GUIs. 
 
+The beginning of the second semester has been fairly quick, but I am thrilled to continue my journey. There's been quite a lot of work specially with the Cooperative Education placement preparation, which I intend to undertake overseas. I've created myself a CV and undertook a screen-interview, where I got more information about the Global Programme. My original plan was to go to Germany, however it seems like UL has more opportunities in the Netherlands and Croatia.
+
+There's been a Patch x ISE Hackaton happening on 17th of February and I secured myself a place. It was a great opportunity to work on a project in a team. With an idea for the project, I took upon myself the project-lead role and collaborated with 5 other team members. I have written more about the event on my [LinkedIn profile](https://www.linkedin.com/in/adamurban73/).
