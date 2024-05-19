@@ -4,7 +4,6 @@ title:  "My SECOND semester at the University of Limerick"
 date:   2024-04-04 12:39:08 +0100
 categories: jekyll update
 ---
-**[ACTIVE]**
 
 **Holidays**
 
@@ -14,10 +13,17 @@ categories: jekyll update
 
 The beginning of the second semester has been fairly quick, but I am thrilled to continue my journey. There's been quite a lot of work specially with the Cooperative Education placement preparation, which I intend to undertake overseas. I've created myself a CV and undertook a screening interview, where I got more information about the Global Programme. My original plan was to go to Germany, however it seems like UL has more opportunities in the Netherlands and Croatia.
 
-**The Patch Hackathon**
+**Patch Hackathon**
 
 There was a Patch x ISE Hackaton happening on 17th of February and I secured myself a place. It was a great opportunity to work on a project in a team. With an idea for the project, I took upon myself the project-lead role and collaborated with 5 other team members. I have written more about the event on my [LinkedIn profile](https://www.linkedin.com/in/adamurban73/).
 
-**The Tennis Club Establishment**
+**Tennis Club Establishment**
 
 After many weeks of work, establishing the committee, promoting the club and searching for potential members, I was given the opportunity to present the club at the Clubs and Societies Council meeting. As a result, the tennis club has been ratified. It's going to be a lot of work, but I believe we can make it into something big.
+
+**A Tennis Tournament and Final Exams**
+
+I feel like the second semester went by much faster than the first one. Before the final exams, I joined my first Irish tennis tournament at the Catholic Institute Athletic Club, where I managed to get to the semifinals in the MS3 grade. It was a good experience and I even met some people from Slovakia.  
+Luckily, I still had time after the tournament to study for the exams. The results are not out yet, but I am confident I managed to achieve a really good score on all of them.
+
+Note: I also learned a bunch of new songs on guitar
