@@ -26,4 +26,6 @@ After many weeks of work, establishing the committee, promoting the club and sea
 I feel like the second semester went by much faster than the first one. Before the final exams, I joined my first Irish tennis tournament at the Catholic Institute Athletic Club, where I managed to get to the semifinals in the MS3 grade. It was a good experience and I even met some people from Slovakia.  
 Luckily, I still had time after the tournament to study for the exams. The results are not out yet, but I am confident I managed to achieve a really good score on all of them.
 
+![Picture of me playing tennis](/portfolio/images/picMeTennis.jpg)
+
 Note: I also learned a bunch of new songs on guitar
