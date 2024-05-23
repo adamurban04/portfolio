@@ -26,7 +26,7 @@ Since I enjoyed every lecture of every module, I knew I was ready for the exams.
 
 **Final Exams**
 
-While dealing with such tasks as acquiring my PPS number, applying for the SUSI grant, and getting Chrismas gifts, the time had come for me to prepare for the final exams. Drawing from my experince with midterms, I knew what to expect. Here's how it went.  
+While dealing with such tasks as acquiring my PPS number, applying for the SUSI grant, and getting Chrismas gifts, the time had come for me to prepare for the final exams. Drawing from my experience with midterms, I knew what to expect. Here's how it went.  
 
 | SUBJECT | GRADE |
 | ------ | ---------- |

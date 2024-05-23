@@ -16,3 +16,6 @@ In this blog post I plan to write everything about my experience and outcomes of
 
 **Week 1**
 
+*20th May - 27th May*
+
+In the first week my objective was to familiarize myself with R, RStudio and ShinyApp.
