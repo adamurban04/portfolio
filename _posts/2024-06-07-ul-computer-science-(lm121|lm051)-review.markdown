@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UL Computer Science (LM121/LM051) Review"
+title:  "UL Computer Science (LM121|LM051) Review"
 date:   2024-06-07 12:39:08 +0100
 categories: jekyll update
 ---
