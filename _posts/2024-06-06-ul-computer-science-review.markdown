@@ -39,7 +39,7 @@ Mathematics. Some hate it. Some love it. Personally, I fall into the second cate
 
 **Foundations of Computer Science 1 (CS4221)**
 
-This is a module that made us missing-semicolon-proof. Or in this case  missing-bracket-proof. Learning about Lambda Calculus and coding in Racket was quite an experience. The team-based labs made this a fun module, because we could showcase our understanding at the whiteboard in a group of 2 people, competing with a different group. Other things we did like drawing ASTs from prefix expressions and evaluating them, Learning about Local (Bound) and Global (Free) variables, Order of evaluation for lambda expressions (Eager/Lazy) and writing recursive functions were much easier to understand thanks to the handout notes we bought and [this website](https://books.compclassnotes.com/elementarycomputing/), which literally has all the content. The project in Racket seemed to be a little unreasonably marked as only 5% of the whole module, despite it being quite a lot of work. To be fair, there were also marks for answering questions about the project in the final exam. The quizzes were interesting in the beginning but there was little to no change in the quizzes' content in the following weeks. Still. Overall 9/10.
+This is a module that made us missing-semicolon-proof. Or in this case  missing-bracket-proof. Learning about Lambda Calculus and coding in Racket was quite an experience. The team-based labs made this a fun module, because we could showcase our understanding at the whiteboard in a group of 2 people, competing with a different group. Other things we did like drawing ASTs from prefix expressions and evaluating them, Learning about Local (Bound) and Global (Free) variables, Order of evaluation for lambda expressions (Eager/Lazy) and writing recursive functions were much easier to understand thanks to the handout notes we bought and [this website](https://books.compclassnotes.com/elementarycomputing/), which literally has all the content. The project in Racket seemed to be a little unreasonably marked as only 5% of the whole module, despite it being quite a lot of work. To be fair, there were also marks for answering questions about the project in the final exam. The quizzes were interesting in the beginning but there was little to no change in the quizzes' content in the following weeks. Overall 9/10.
 
 **Fundamentals of Computer Organisation (ET4011)**
 
@@ -48,3 +48,15 @@ A really enjoyable module that focuses on.. well, fundamentals of computer organ
 **Second Semester Modules (LM121)**
 
 Simililarly to the first semester, there are 5 modules in the second semester. All of them are compulsory and there are no elective modules.
+
+**Computer Mathematics (MA4402)**
+
+**Foundations of Computer Science 2 (CS4182)**
+
+**Games Modelling Design (CS4043)**
+
+**Computing Systems Organisation (ET4162)**
+
+**Software Development (CS4222)**
+
+
