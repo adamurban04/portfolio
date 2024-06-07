@@ -31,7 +31,7 @@ In the second week I created a basic Shiny App, that uses plots to showcase my u
 
 *3rd June - 10th June*
 
-In the third week I familiarized myself with UMI count data.
+In the third week I familiarized myself with UMI (Unique Molecul Identifier) count data.
 
 
 *10th June - 17th June*
