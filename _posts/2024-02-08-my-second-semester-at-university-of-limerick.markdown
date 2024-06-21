@@ -24,7 +24,15 @@ After many weeks of work, establishing the committee, promoting the club and sea
 **A Tennis Tournament and Final Exams**
 
 I feel like the second semester went by much faster than the first one. Before the final exams, I joined my first Irish tennis tournament at the Catholic Institute Athletic Club, where I managed to get to semifinals in the MS3 grade. It was a good experience and I even met some people from Slovakia.  
-Luckily, I still had time after the tournament to study for the exams. The results are not out yet, but I am confident I managed to achieve a really good score on all of them.
+Luckily, I still had time after the tournament to study for the exams. And here are my results.
+
+| SUBJECT | GRADE |
+| ------ | ---------- |
+| SOFTWARE DEVELOPMENT | A1 |
+| COMPUTER MATHS | A1 |
+| COMPUTER SYSTEMS ORGANISATION | A1 |
+| GAMES MODELLING DESIGN | A1 |
+| FOUNDATIONS OF COMPUTER SCIENCE 2 | A1 |
 
 ![Picture of me playing tennis](/portfolio/images/picMeTennis.jpg)
 
