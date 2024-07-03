@@ -25,13 +25,13 @@ In the first week my objective was to familiarize myself with R, RStudio and Shi
 
 *3rd June - 10th June*
 
-In the second week, I built the first version of my R Shiny App with data visualisations created for a clinical dataset and hosted it on Shinyapps.io.
+In the second week, I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with data visualisations created for a clinical dataset and hosted it on Shinyapps.io.
 
 **Week 3 and Week 4**
 
 *10th June - 17th June*
 
-In the third week, I added more clinical datasets and a choice for the user to select a specific dataset and get insights into them.
+In the third week, I added more clinical datasets and a choice for the user to select a specific dataset and get insights into them. I have also created a [videopresentation](https://www.youtube.com/watch?v=f1_ApnHoYWM) showcasing my progress.
 
 *17th June - 24th June*
 
@@ -51,7 +51,6 @@ In the fifth week, I made the plots interactive using the plotly package and add
 
 *7th July - 15th July*
 
-In the seventh week I used cell anotation methods and did comparative analysis of annotation tools.
 
 *15th July - 21th July*
 
@@ -62,6 +61,8 @@ In the seventh week I used cell anotation methods and did comparative analysis o
 
 *29th June - 5th August*
 
-**Result (after w5)**
+**Motivation and Results (after w5)**
 
-We have created a Shiny App, useful for identifying data bias. It offers summary statistics, easy-to-view visual inspection with the interactive plots and a correlation matrix.
+The motivation for this project is to create a tool that provides **both** summary statistics and the means for identifying data bias across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans. Those are the insights into the age, gender, survival status, race and ethnicity of the cohorts in the dataset.
+
+The result is a Shiny App, useful for identifying data bias. It offers summary statistics, easy-to-view visual inspection with the interactive plots and a correlation matrix. You can view the code and resources for this tool at its [GitHub repository](https://github.com/adamurban04/UPSTaRT).
