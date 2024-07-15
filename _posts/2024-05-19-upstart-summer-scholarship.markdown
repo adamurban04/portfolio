@@ -31,13 +31,11 @@ In the second week, I built the first version of [my R Shiny App](https://adamur
 
 *10th June - 17th June*
 
-In the third week, I added more clinical datasets and a choice for the user to select a specific dataset and get insights into them. I have also created a [videopresentation](https://www.youtube.com/watch?v=f1_ApnHoYWM) showcasing my progress.
+In the third week, I added more clinical datasets and a choice for the user to select a specific dataset and get insights into them. I also created a [videopresentation](https://www.youtube.com/watch?v=f1_ApnHoYWM) showcasing my progress.
 
 *17th June - 24th June*
 
-In the fourth week, I created an R markdown notebook, which makes it easy for anyone to view the code and follow the steps of my data analysis.
-I also added an image dataset containing CT scans of non-small cell lung cancer patients.
-The app lets you get insights into the dataset and view the CT scans.
+In the fourth week, I created an R markdown notebook, which makes it easy for anyone to view the code and follow the steps of my data analysis. I also added an image dataset containing CT scans of non-small cell lung cancer patients. The app lets you get insights into the dataset and view the CT scans.
 
 **Week 5 and Week 6**
 
@@ -47,10 +45,14 @@ In the fifth week, I made the plots interactive using the plotly package and add
 
 *1st July - 7th July*
 
+In the sixth week I worked on the feedback I got from the Culhane Lab, meaning table1 R package. With this, I created a stratified analysis of clinical data by the user’s chosen category variable. This is a great asset in identifying data biases.
+I decided to split the code into multiple files for better organisation as the source file was already reaching a thousand lines. Although for deployment purposes I also had to keep one merged file. I also updated the User Interface with styled tab headings.
+
 **Week 7 and Week 8**
 
 *7th July - 15th July*
 
+In the seventh week I focused on exploring RadioGx and PharmacoGx R packages from BHKLab and a statistical test “t-test” to understand how I can implement it in our Shiny App.
 
 *15th July - 21th July*
 
