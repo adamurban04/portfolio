@@ -36,4 +36,4 @@ Luckily, I still had time after the tournament to study for the exams. And here 
 
 ![Picture of me playing tennis](/portfolio/images/picMeTennis.jpg)
 
-Note: I also learned a bunch of new songs on the guitar!
+Note: playing guitar is a great activity to relax
