@@ -25,7 +25,7 @@ In the first week my objective was to familiarize myself with R, RStudio and Shi
 
 *3rd June - 10th June*
 
-In the second week, I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with data visualisations created for a clinical dataset and hosted it on Shinyapps.io.
+In the second week, I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with data visualisations created for a Lung Adenocarcinoma clinical dataset obtained from [cBioPortal](https://www.cbioportal.org/study/clinicalData?id=luad_tcga_pan_can_atlas_2018) and hosted it on Shinyapps.io.
 
 **Week 3 and Week 4**
 
@@ -52,9 +52,14 @@ I decided to split the code into multiple files for better organisation as the s
 
 *7th July - 15th July*
 
-In the seventh week I focused on exploring RadioGx and PharmacoGx R packages from BHKLab and a statistical test “t-test” to understand how I can implement it in our Shiny App.
+In the seventh week I focused on exploring RadioGx and PharmacoGx R Bioconductor packages from BHKLab and a statistical test “t-test” to understand how I can utilise this for a radiogenomic analysis in in our Shiny App. Radiogenomic analysis combines radiobiological data with genomic data to uncover insights into how different cell lines respond to radiation therapy. Utilizing tools like the T-test and RadioGx can significantly enhance our understanding of these responses and lead to more effective cancer treatments.  
+  
+T-test in Radiogenomic Analysis
+The T-test is a statistical method used to determine if there are significant differences between the means of two groups. In the context of radiogenomic analysis, it can be employed to compare the radiation sensitivity of different cell lines or tissue types.
 
 *15th July - 21th July*
+
+I updated the correlation matrix to only show the upper triangular area (since the matrix is symmetric), which makes the analysis easier.
 
 **Week 9 and Week 10**
 
@@ -67,4 +72,4 @@ In the seventh week I focused on exploring RadioGx and PharmacoGx R packages fro
 
 The motivation for this project is to create a tool that provides **both** summary statistics and the means for identifying data bias across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans. Those are the insights into the age, gender, survival status, race and ethnicity of the cohorts in the dataset.
 
-The result is a Shiny App, useful for identifying data bias. It offers summary statistics, easy-to-view visual inspection with the interactive plots and a correlation matrix. You can view the code and resources for this tool at its [GitHub repository](https://github.com/adamurban04/UPSTaRT).
+The result is a Shiny App, useful for identifying data bias. It offers summary statistics, easy-to-view visual inspection with the interactive plots and a correlation matrix. You can view the code and resources for this tool at its [GitHub repository](https://github.com/adamurban04/UPSTaRT) or the actual Shiny app at [shinyapps.io](https://adamurban.shinyapps.io/Research/)
