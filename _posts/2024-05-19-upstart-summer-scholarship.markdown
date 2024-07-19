@@ -15,7 +15,7 @@ In this blog post I write everything about my experience and outcomes of my rese
 
 **Meetings**
 
-During this programme I have attended weekly meetings with my mentor and two other interns. The purpose of those meetings were to discuss our progress, receive feedback and plan the next steps. Then we were having a weekly lab meeting every Monday, where we shared this with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.
+During this programme I have attended weekly meetings with my mentor and two other interns. The purpose of those meetings were to discuss our progress, receive feedback and plan the next steps. We were also having a lab meeting every Monday, in which we shared our progress with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.
 
 **Week 1 and Week 2**
 
@@ -25,28 +25,34 @@ In the first week my objective was to familiarize myself with R, RStudio and Shi
 
 *3rd June - 10th June*
 
-In the second week, I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with data visualisations created for a Lung Adenocarcinoma clinical dataset obtained from [cBioPortal](https://www.cbioportal.org/study/clinicalData?id=luad_tcga_pan_can_atlas_2018) and hosted it on Shinyapps.io.
+I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with data visualisations created for a Lung Adenocarcinoma clinical dataset obtained from [cBioPortal](https://www.cbioportal.org/study/clinicalData?id=luad_tcga_pan_can_atlas_2018) and hosted it on Shinyapps.io.
+
+![appPic1](/portfolio/images/app/app1.png)
 
 **Week 3 and Week 4**
 
 *10th June - 17th June*
 
-In the third week, I added more clinical datasets and a choice for the user to select a specific dataset and get insights into them. I also created a [videopresentation](https://www.youtube.com/watch?v=f1_ApnHoYWM) showcasing my progress.
+I added more clinical datasets and a choice for the user to select a specific dataset and get insights into them. I also created a [videopresentation](https://www.youtube.com/watch?v=f1_ApnHoYWM) showcasing my progress.
 
 *17th June - 24th June*
 
-In the fourth week, I created an R markdown notebook, which makes it easy for anyone to view the code and follow the steps of my data analysis. I also added an image dataset containing CT scans of non-small cell lung cancer patients. The app lets you get insights into the dataset and view the CT scans.
+I created an R markdown notebook, which makes it easy for anyone to view the code and follow the steps of my data analysis. I also added an image dataset containing CT scans of non-small cell lung cancer patients. The app lets you get insights into the dataset and view the CT scans.
+
+![appPic2](/portfolio/images/app/app2.png)
 
 **Week 5 and Week 6**
 
 *24th June - 1st July*
 
-In the fifth week, I made the plots interactive using the plotly package and added a correlation matrix for numeric data in the clinical datasets. I also gave a presentation in Culhane Lab (School of Medicine) on the topic "Data bias visualisation tool".
+I made the plots interactive using the plotly package and added a correlation matrix for numeric data in the clinical datasets. I also gave a presentation in Culhane Lab (School of Medicine) on the topic "Data bias visualisation tool".
 
 *1st July - 7th July*
 
-In the sixth week I worked on the feedback I got from the Culhane Lab, meaning table1 R package. With this, I created a stratified analysis of clinical data by the user’s chosen category variable. This is a great asset in identifying data biases.
+I worked on the feedback I got from the Culhane Lab, specifically table1 R package. With this package, I created a stratified analysis of clinical data by the user’s chosen category variable. This is a great asset in identifying data biases.  
 I decided to split the code into multiple files for better organisation as the source file was already reaching a thousand lines. Although for deployment purposes I also had to keep one merged file. I also updated the User Interface with styled tab headings.
+
+![appPic3](/portfolio/images/app/app3.png)
 
 **Week 7 and Week 8**
 
