@@ -56,6 +56,6 @@ plugins:
 
 carousels:
   - images: 
-    - image: /portfolio/images/app1.jpg
-    - image: /portfolio/images/app2.jpg
-    - image: /portfolio/images/app3.jpg
+    - image: /images/app1.jpg
+    - image: /images/app2.jpg
+    - image: /images/app3.jpg
