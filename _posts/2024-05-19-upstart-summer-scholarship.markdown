@@ -52,7 +52,7 @@ I made the plots interactive using the plotly package and added a correlation ma
 I worked on the feedback I got from the Culhane Lab, specifically table1 R package. With this package, I created a stratified analysis of clinical data by the user’s chosen category variable. This is a great asset in identifying data biases.  
 I decided to split the code into multiple files for better organisation as the source file was already reaching a thousand lines. Although for deployment purposes I also had to keep one merged file. I also updated the User Interface with styled tab headings.
 
-![appPic3](/portfolio/images/app3.png)
+![appPic3](/portfolio/images/app3.jpg)
 
 **Week 7 and Week 8**
 
