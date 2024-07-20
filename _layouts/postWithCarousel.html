@@ -18,8 +18,10 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+    
   </div>
+
+  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
