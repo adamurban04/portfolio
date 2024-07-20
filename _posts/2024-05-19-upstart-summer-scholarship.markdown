@@ -52,7 +52,7 @@ I made the plots interactive using the plotly package and added a **correlation 
 I worked on the feedback I got from the Culhane Lab, specifically **table1 R package**. With this package, I created a **stratified analysis** of clinical data by the user’s chosen category variable. This is a great asset for identifying data biases.  
 I decided to split the code into multiple files for better organisation as the source file was already reaching a thousand lines. Although for deployment purposes I also had to keep one merged file. I also updated the User Interface with styled tab headings.
 
-![appPic4](/portfolio/images/app4.jpg)
+![appPic3](/portfolio/images/app3.jpg)
 
 ### Week 7 and Week 8
 
@@ -71,7 +71,7 @@ There is also the feature of calculating the sensitivity signatures for cell lin
 - Combination Therapy: Combine radiation therapy with drugs targeting genes associated with radio-resistance to enhance treatment effectiveness.
 - Personalized Medicine: Tailor radiation therapy based on the molecular signatures of a patient’s tumor, improving treatment outcomes.
 
-![appPic3](/portfolio/images/app3.jpg)
+![appPic4](/portfolio/images/app4.jpg)
 
 ### Week 9 and Week 10
 
