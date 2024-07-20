@@ -5,11 +5,11 @@ date:   2024-04-04 12:39:08 +0100
 categories: jekyll update
 ---
 
-### Holidays
+**Holidays**
 
  During the holidays, I dedicated time to improving my coding skills and preparing for the second semester. I expanded my coding portfolio and gained insights into implementing Java interfaces for GUIs. After spending beautiful time with my family and friends, and also attending The Kellner Family Foundation scholars' meeting, I returned to Ireland.
 
-### Back in Ireland and the Global COOP Programme
+**Back in Ireland and the Global COOP Programme**
 
 The beginning of the second semester had been fairly quick, but I was thrilled to continue my journey. There had been quite a lot of work especially with the Cooperative Education placement preparation, which I intend to undertake overseas. I've created myself a CV and undertook a screening interview, where I got more information about the Global Programme. My original plan was to go to Germany, however it looks like UL has more opportunities in the Netherlands and Croatia.
 

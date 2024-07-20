@@ -13,7 +13,7 @@ I am delighted I got the opportunity to work on ongoing research at UL during th
   
 In this blog post, I wrote about my experience and the outcomes of my research project.
 
-### Meetings
+#### Meetings
 
 During this programme I have been attending weekly meetings with my mentor and two other interns. The purpose of those meetings was to discuss our progress, receive feedback and plan the next steps. We were also having a lab meeting every Monday, in which we shared our progress with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.
 
@@ -37,7 +37,7 @@ I added more clinical datasets and a choice for the user to select a specific da
 
 *17th June - 24th June*
 
-I created an R markdown notebook, which makes it easy for anyone to view the code and follow the steps of my data analysis. I also added an [image dataset](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) from NIH containing CT scans of non-small cell lung cancer patients. The app lets you get insights into the dataset and view the CT scans.
+I created an R markdown notebook, which makes it easy for anyone to view the code and follow the steps of my data analysis. I also added an [image dataset](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) from NIH containing CT scans of non-small cell lung cancer patients. The app lets you get insights into the dataset and view the CT scans with its **DICOM Viewer feature**.
 
 ![appPic2](/portfolio/images/app2.jpg)
 
@@ -45,11 +45,11 @@ I created an R markdown notebook, which makes it easy for anyone to view the cod
 
 *24th June - 1st July*
 
-I made the plots interactive using the plotly package and added a correlation matrix for numeric data in the clinical datasets. I also gave a presentation in Culhane Lab (School of Medicine) on the topic "Data bias visualisation tool".
+I made the plots interactive using the plotly package and added a **correlation matrix** for numeric data in the clinical datasets. I also gave a presentation in Culhane Lab (School of Medicine) on the topic "Data bias visualisation tool".
 
 *1st July - 7th July*
 
-I worked on the feedback I got from the Culhane Lab, specifically table1 R package. With this package, I created a stratified analysis of clinical data by the user’s chosen category variable. This is a great asset in identifying data biases.  
+I worked on the feedback I got from the Culhane Lab, specifically **table1 R package**. With this package, I created a **stratified analysis** of clinical data by the user’s chosen category variable. This is a great asset for identifying data biases.  
 I decided to split the code into multiple files for better organisation as the source file was already reaching a thousand lines. Although for deployment purposes I also had to keep one merged file. I also updated the User Interface with styled tab headings.
 
 ![appPic3](/portfolio/images/app3.jpg)
@@ -58,14 +58,14 @@ I decided to split the code into multiple files for better organisation as the s
 
 *7th July - 15th July*
 
-I focused on exploring RadioGx and PharmacoGx R Bioconductor packages from BHKLab and a statistical test “t-test” to understand how I can utilise this for a radiogenomic analysis in in our Shiny App.  
+I focused on exploring **RadioGx** and **PharmacoGx** R Bioconductor packages from BHKLab and a statistical test **“t-test”** to understand how I can utilise this for a radiogenomic analysis in in our Shiny App.  
 Radiogenomic analysis combines radiobiological data with genomic data to uncover insights into how different cell lines respond to radiation therapy. Utilizing tools like the T-test and RadioGx can significantly enhance our understanding of these responses and lead to more effective cancer treatments.  
 
 *15th July - 21th July*
 
 I updated the correlation matrix to only show the upper triangular area (since the matrix is symmetric), which makes the analysis easier.  
-I employed a T-test, a statistical method used to determine if there are significant differences between the means of two groups, to compare the radiation sensitivity of different drugs, cell lines or tissue types.  
-I utilised RadioGx package for comprehensive analysis of cell line responses to radiation, which can be useful when determining the correct dosage for a patient.  
+I employed a **T-test**, a statistical method used to determine if there are significant differences between the means of two groups, to **compare the radiation sensitivity** of different drugs, cell lines or tissue types.  
+I utilised **RadioGx** package for comprehensive analysis of cell line responses to radiation, which can be useful when determining the correct dosage for a patient.  
 There is also the feature of calculating the sensitivity signatures for cell lines based on molecular data, such as RNA expression profiles. The function identifies which molecular features (genes) are associated with the cell lines' response to radiation. This can be useful for:
 - Biomarker Discovery: Identify genes that can serve as biomarkers for predicting radiation sensitivity or resistance in cancer cells
 - Combination Therapy: Combine radiation therapy with drugs targeting genes associated with radio-resistance to enhance treatment effectiveness.
