@@ -7,29 +7,29 @@ categories: jekyll update
 
 ***[Active]***
 
-**Intro**
+## Intro
 
 I am delighted I got the opportunity to work on ongoing research at UL during the summer of 2024 as part of UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track). I applied with the support of Prof. Conor Ryan and Dr Meghana Kshiragar and the project: "Discovering Novel Biomarkers for Pan Cancers". I also worked closely with one of my classmates James Conolly.
   
 In this blog post, I wrote about my experience and the outcomes of my research project.
 
-**Meetings**
+### Meetings
 
 During this programme I have been attending weekly meetings with my mentor and two other interns. The purpose of those meetings was to discuss our progress, receive feedback and plan the next steps. We were also having a lab meeting every Monday, in which we shared our progress with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.
 
-**Week 1 and Week 2**
+### Week 1 and Week 2
 
 *27th May - 3rd June*
 
-In the first week, my objective was to familiarize myself with R, RStudio and ShinyApp. I did this by watching YouTube videos, walking through the Learn R course on Codeacademy and following the Get Started tutorials on the official Shiny website. After that, I also read papers my advisors gave me to understand the aims and objectives and the biological part of the project.
+In the first week, my objective was to familiarize myself with **R**, RStudio and ShinyApp. I did this by watching YouTube videos, walking through the Learn R course on Codeacademy and following the Get Started tutorials on the official Shiny website. After that, I also read papers my advisors gave me to understand the aims and objectives and the biological part of the project.
 
 *3rd June - 10th June*
 
-I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with data visualisations created for a Lung Adenocarcinoma [clinical dataset]((https://www.cbioportal.org/study/clinicalData?id=luad_tcga_pan_can_atlas_2018)) obtained from cBioPortal and hosted it on Shinyapps.io.
+I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with **data visualisations** created for a Lung Adenocarcinoma [clinical dataset]((https://www.cbioportal.org/study/clinicalData?id=luad_tcga_pan_can_atlas_2018)) obtained from cBioPortal and hosted it on Shinyapps.io.
 
 ![appPic1](/portfolio/images/app1.jpg)
 
-**Week 3 and Week 4**
+### Week 3 and Week 4
 
 *10th June - 17th June*
 
@@ -41,7 +41,7 @@ I created an R markdown notebook, which makes it easy for anyone to view the cod
 
 ![appPic2](/portfolio/images/app2.jpg)
 
-**Week 5 and Week 6**
+### Week 5 and Week 6
 
 *24th June - 1st July*
 
@@ -54,7 +54,7 @@ I decided to split the code into multiple files for better organisation as the s
 
 ![appPic3](/portfolio/images/app3.jpg)
 
-**Week 7 and Week 8**
+### Week 7 and Week 8
 
 *7th July - 15th July*
 
@@ -65,9 +65,13 @@ Radiogenomic analysis combines radiobiological data with genomic data to uncover
 
 I updated the correlation matrix to only show the upper triangular area (since the matrix is symmetric), which makes the analysis easier.  
 I employed a T-test, a statistical method used to determine if there are significant differences between the means of two groups, to compare the radiation sensitivity of different drugs, cell lines or tissue types.  
-I utilised RadioGx package for comprehensive analysis of cell line responses to radiation.
+I utilised RadioGx package for comprehensive analysis of cell line responses to radiation, which can be useful when determining the correct dosage for a patient.  
+There is also the feature of calculating the sensitivity signatures for cell lines based on molecular data, such as RNA expression profiles. The function identifies which molecular features (genes) are associated with the cell lines' response to radiation. This can be useful for:
+- Biomarker Discovery: Identify genes that can serve as biomarkers for predicting radiation sensitivity or resistance in cancer cells
+- Combination Therapy: Combine radiation therapy with drugs targeting genes associated with radio-resistance to enhance treatment effectiveness.
+- Personalized Medicine: Tailor radiation therapy based on the molecular signatures of a patient’s tumor, improving treatment outcomes.
 
-**Week 9 and Week 10**
+### Week 9 and Week 10
 
 *21st June - 29th July*
 
