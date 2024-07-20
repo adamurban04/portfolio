@@ -9,19 +9,19 @@ categories: jekyll update
 
 **Intro**
 
-I am very delighted I got the opportunity to be working on an ongoing research at UL during the summer of 2024 as part of UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track). I applied with the support of Prof. Conor Ryan and Dr Meghana Kshiragar and the project: "Discovering Novel Biomarkers for Pan Cancers". I will also be closely working with one of my classmates James Conolly.
+I am delighted I got the opportunity to work on ongoing research at UL during the summer of 2024 as part of UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track). I applied with the support of Prof. Conor Ryan and Dr Meghana Kshiragar and the project: "Discovering Novel Biomarkers for Pan Cancers". I also worked closely with one of my classmates James Conolly.
   
-In this blog post I write everything about my experience and outcomes of my research work.
+In this blog post, I wrote about my experience and the outcomes of my research project.
 
 **Meetings**
 
-During this programme I have attended weekly meetings with my mentor and two other interns. The purpose of those meetings were to discuss our progress, receive feedback and plan the next steps. We were also having a lab meeting every Monday, in which we shared our progress with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.
+During this programme I have been attending weekly meetings with my mentor and two other interns. The purpose of those meetings was to discuss our progress, receive feedback and plan the next steps. We were also having a lab meeting every Monday, in which we shared our progress with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.
 
 **Week 1 and Week 2**
 
 *27th May - 3rd June*
 
-In the first week my objective was to familiarize myself with R, RStudio and ShinyApp. I did this by watching YouTube videos, walking through the Learn R course on Codeacademy and following the Get Started tutorials on the official Shiny website. After that I also read papers my advisors gave me to understand the aims and objectives and the biological part of the project.
+In the first week, my objective was to familiarize myself with R, RStudio and ShinyApp. I did this by watching YouTube videos, walking through the Learn R course on Codeacademy and following the Get Started tutorials on the official Shiny website. After that, I also read papers my advisors gave me to understand the aims and objectives and the biological part of the project.
 
 *3rd June - 10th June*
 
@@ -58,7 +58,7 @@ I decided to split the code into multiple files for better organisation as the s
 
 *7th July - 15th July*
 
-In the seventh week I focused on exploring RadioGx and PharmacoGx R Bioconductor packages from BHKLab and a statistical test “t-test” to understand how I can utilise this for a radiogenomic analysis in in our Shiny App.  
+I focused on exploring RadioGx and PharmacoGx R Bioconductor packages from BHKLab and a statistical test “t-test” to understand how I can utilise this for a radiogenomic analysis in in our Shiny App.  
 Radiogenomic analysis combines radiobiological data with genomic data to uncover insights into how different cell lines respond to radiation therapy. Utilizing tools like the T-test and RadioGx can significantly enhance our understanding of these responses and lead to more effective cancer treatments.  
 
 *15th July - 21th July*
