@@ -33,7 +33,7 @@ I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Res
 
 *10th June - 17th June*
 
-I added more clinical datasets and a choice for the user to select a specific dataset and get insights into them. I also created a [videopresentation](https://www.youtube.com/watch?v=f1_ApnHoYWM) showcasing my progress.
+I added more clinical datasets and a choice for the user to select a specific dataset and get insights into them. I also gave a presentation showcasing my progress.
 
 *17th June - 24th June*
 
