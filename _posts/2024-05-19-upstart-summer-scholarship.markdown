@@ -80,8 +80,11 @@ There is also the feature of calculating the sensitivity signatures for cell lin
 
 *29th June - 5th August*
 
-**Motivation and Results (after w5)**
+**Motivation and Results**
 
-The motivation for this project is to create a tool that provides **both** summary statistics and the means for identifying data bias across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans. Those are the insights into the age, gender, survival status, race and ethnicity of the cohorts in the dataset.
+The motivation for this project is to create a tool that provides **both summary statistics and the means for identifying data bias** across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans.
 
-The result is a Shiny App, useful for identifying data bias. It offers summary statistics, easy-to-view visual inspection with the interactive plots and a correlation matrix. You can view the code and resources for this tool at its [GitHub repository](https://github.com/adamurban04/UPSTaRT) or the actual Shiny app at [shinyapps.io](https://adamurban.shinyapps.io/Research/)
+The result is a Shiny App, useful for identifying data bias. It offers summary statistics, easy-to-view visual inspection of clinical datasets utilizing interactive plots with insights into age, gender, survival status, race and ethnicity of patients, an inspection of CT Scans saved as DICOM files, a correlation matrix for numeric data in clinical datasets, stratified analysis, t-test statistics on drug response data (IC50 values), and a comprehensive analysis of cell line responses to radiation.  
+In this app, we focused on lung adenocarcinoma, but it is useful for pan cancers.  
+
+You can view the code and resources for this tool at its [GitHub repository](https://github.com/adamurban04/UPSTaRT) or the actual Shiny app at [shinyapps.io](https://adamurban.shinyapps.io/Research/)
