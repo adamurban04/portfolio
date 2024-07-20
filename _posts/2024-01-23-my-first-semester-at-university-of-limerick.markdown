@@ -37,3 +37,5 @@ While dealing with such tasks as acquiring my PPS number, applying for the SUSI 
 | REPRESENTATION AND MODELLING | A1 |
 
 Note: swimming in the evening is the perfect way to clear the mind and relax
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}

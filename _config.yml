@@ -53,3 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+carousels:
+  - images: 
+    - image: /portfolio/images/app1.jpg
+    - image: /portfolio/images/app2.jpg
+    - image: /portfolio/images/app3.jpg

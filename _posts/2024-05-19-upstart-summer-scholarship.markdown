@@ -27,7 +27,7 @@ In the first week my objective was to familiarize myself with R, RStudio and Shi
 
 I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with data visualisations created for a Lung Adenocarcinoma [clinical dataset]((https://www.cbioportal.org/study/clinicalData?id=luad_tcga_pan_can_atlas_2018)) obtained from cBioPortal and hosted it on Shinyapps.io.
 
-![appPic1](/images/app/app1.png)
+![appPic1](/portfolio/images/app1.jpg)
 
 **Week 3 and Week 4**
 
@@ -39,7 +39,7 @@ I added more clinical datasets and a choice for the user to select a specific da
 
 I created an R markdown notebook, which makes it easy for anyone to view the code and follow the steps of my data analysis. I also added an [image dataset](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) from NIH containing CT scans of non-small cell lung cancer patients. The app lets you get insights into the dataset and view the CT scans.
 
-![appPic2](/images/app/app2.png)
+![appPic2](/portfolio/images/app2.jpg)
 
 **Week 5 and Week 6**
 
