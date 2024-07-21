@@ -33,6 +33,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-google_search_console_verification_file
+
+google_search_console:
+  verification_file_code: 315ef566293b6467
 
 # Exclude from processing.
 # The following items will not be processed, by default.
