@@ -2,9 +2,7 @@
 
 /* Style for the country name with gradient color transition */
 .country-name {
-    font-size: 1.5em; /* Adjust the size as needed */
-    font-weight: bold; /* Optional: make the text bold */
-    background: linear-gradient(90deg, #ff0000, #0000ff, #ffffff); /* Red, Blue, White gradient */
+    background: linear-gradient(90deg, #ff0000, #0000ff, #838282); /* Red, Blue, White gradient */
     -webkit-background-clip: text; /* Clip the background to the text */
     -webkit-text-fill-color: transparent; /* Make the text fill color transparent */
     animation: colorTransition 5s linear infinite; /* Animation to transition colors */
