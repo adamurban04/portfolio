@@ -1,1 +1,1 @@
-This is my personal website, where I share my journey.
+This is my personal website, where I share my academic journey.
