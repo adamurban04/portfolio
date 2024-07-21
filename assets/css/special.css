@@ -2,10 +2,11 @@
 
 /* Style for the country name with gradient color transition */
 .country-name {
-    background: linear-gradient(90deg, #ff0000, #0000ff, #838282); /* Red, Blue, White gradient */
+    background: linear-gradient(90deg, #ff0000, #0000ff); /* Red to Blue gradient */
     -webkit-background-clip: text; /* Clip the background to the text */
     -webkit-text-fill-color: transparent; /* Make the text fill color transparent */
     animation: colorTransition 5s linear infinite; /* Animation to transition colors */
+    background-size: 200% 100%; /* Ensures smooth gradient transition */
 }
 
 /* Keyframes for gradual color transition */
