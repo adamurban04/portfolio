@@ -13,11 +13,11 @@ I am delighted I got the opportunity to work on ongoing research at UL during th
   
 In this blog post, I wrote about my experience and the outcomes of my research project.
 
-###  Motivation (w0-w5)
+####  Motivation (w0-w5)
 
 The motivation for this project is to create a tool that provides **both summary statistics and the means for identifying data bias** across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans.
 
-### Meetings
+#### Meetings
 
 During this programme I have been attending weekly meetings with my mentor and two other interns. The purpose of those meetings was to discuss our progress, receive feedback and plan the next steps. We were also having a lab meeting every Monday, in which we shared our progress with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.  
 
