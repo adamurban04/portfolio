@@ -64,8 +64,8 @@ Radiogenomic analysis combines radiobiological data with genomic data to uncover
 *15th July - 21th July*
 
 I updated the correlation matrix to only show the upper triangular area (since the matrix is symmetric), which makes the analysis easier.  
-I employed a **T-test**, a statistical method used to determine if there are significant differences between the means of two groups, to **compare the radiation sensitivity** of different drugs, cell lines or tissue types.  
-I utilised **RadioGx** package for comprehensive analysis of cell line responses to radiation, which can be useful when determining the correct dosage for a patient.  
+I employed a **T-test**, a statistical method used to determine if there are significant differences between the means of two groups, to **compare the drug sensitivity** of different drugs, cell lines or tissue types.  
+I utilised **RadioGx** package for comprehensive analysis of **cell line responses to radiation**, which can be useful when determining the correct dosage for a patient.  
 There is also the feature of calculating the sensitivity signatures for cell lines based on molecular data, such as RNA expression profiles. The function identifies which molecular features (genes) are associated with the cell lines' response to radiation. This can be useful for:
 - Biomarker Discovery: Identify genes that can serve as biomarkers for predicting radiation sensitivity or resistance in cancer cells
 - Combination Therapy: Combine radiation therapy with drugs targeting genes associated with radio-resistance to enhance treatment effectiveness.
