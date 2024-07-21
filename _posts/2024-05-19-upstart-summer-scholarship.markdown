@@ -19,9 +19,11 @@ The motivation for this project is to create a tool that provides **both summary
 
 #### Meetings
 
-During this programme I have been attending weekly meetings with my mentor and two other interns. The purpose of those meetings was to discuss our progress, receive feedback and plan the next steps. We were also having a lab meeting every Monday, in which we shared our progress with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.
-
----
+During this programme I have been attending weekly meetings with my mentor and two other interns. The purpose of those meetings was to discuss our progress, receive feedback and plan the next steps. We were also having a lab meeting every Monday, in which we shared our progress with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.  
+  
+  
+---  
+  
 
 ### Week 1 and Week 2
 
@@ -87,11 +89,11 @@ There is also the feature of calculating the sensitivity signatures for cell lin
 
 *29th June - 5th August*
 
-...
-____  
+...  
   
-
-
+  
+---  
+  
 
 ###  Results
 
