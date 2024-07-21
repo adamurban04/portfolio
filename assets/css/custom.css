@@ -12,23 +12,20 @@ body {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color: #fff; /* White text for headings */
-    background-color: #4a4a4a; /* Grey background for headings */
-    padding: 10px;
-    border-radius: 5px; /* Optional: rounded corners */
-    margin-bottom: 1em;
+    color: #1f77b4; /* Primary color for headings */
 }
 
 h1 {
     font-size: 2.5em;
     margin-bottom: 0.5em;
-    border-bottom: 2px solid #4a4a4a; /* Underline for emphasis */
+    border-bottom: 2px solid #1f77b4; /* Underline for emphasis */
     padding-bottom: 0.3em;
 }
 
 h2 {
     font-size: 2em;
     margin-bottom: 0.5em;
+    border-bottom: 1px solid #1f77b4; /* Underline for emphasis */
     padding-bottom: 0.3em;
 }
 
@@ -121,7 +118,7 @@ th {
 
 /* Blockquotes */
 blockquote {
-    border-left: 4px solid #4a4a4a; /* Border color for blockquotes */
+    border-left: 4px solid #1f77b4; /* Border color for blockquotes */
     padding: 10px 20px;
     margin: 1em 0;
     font-style: italic;

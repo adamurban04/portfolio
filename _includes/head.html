@@ -9,9 +9,12 @@
   <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.png" | relative_url }}">
   <!-- Additional Icons -->
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | relative_url }}">
-  <!-- Custom CSS -->
+  <!-- My Conditional CSSs -->
   {% if page.custom_css %}
     <link rel="stylesheet" href="{{ page.custom_css | relative_url }}">
+  {% endif %}
+  {% if page.special_css %}
+    <link rel="stylesheet" href="{{ page.special_css | relative_url }}">
   {% endif %}
 
   {%- feed_meta -%}
