@@ -9,7 +9,7 @@ categories: jekyll update
 
 ## Intro
 
-I am delighted I got the opportunity to work on ongoing research at UL during the summer of 2024 as part of UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track). I applied with the support of Prof. Conor Ryan and Dr Meghana Kshiragar and the project: "Discovering Novel Biomarkers for Pan Cancers". I also worked closely with one of my classmates James Conolly.
+I am delighted I got the opportunity to work on ongoing research at UL during the summer of 2024 as part of UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track). I applied with the support of Prof. Conor Ryan and Dr Meghana Kshiragar and the project: "**Discovering Novel Biomarkers for Pan Cancers**". I also worked closely with one of my classmates James Conolly.
   
 In this blog post, I wrote about my experience and the outcomes of my research project.
 
