@@ -13,9 +13,15 @@ I am delighted I got the opportunity to work on ongoing research at UL during th
   
 In this blog post, I wrote about my experience and the outcomes of my research project.
 
+###  Motivation (w0-w5)
+
+The motivation for this project is to create a tool that provides **both summary statistics and the means for identifying data bias** across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans.
+
 #### Meetings
 
 During this programme I have been attending weekly meetings with my mentor and two other interns. The purpose of those meetings was to discuss our progress, receive feedback and plan the next steps. We were also having a lab meeting every Monday, in which we shared our progress with the whole [BDS](https://bds.ul.ie/) (Biocomputing and Development Systems) group.
+
+
 
 ### Week 1 and Week 2
 
@@ -77,12 +83,17 @@ There is also the feature of calculating the sensitivity signatures for cell lin
 
 *21st June - 29th July*
 
+...
 
 *29th June - 5th August*
 
-**Motivation and Results**
+...
+____  
+  
 
-The motivation for this project is to create a tool that provides **both summary statistics and the means for identifying data bias** across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans.
+
+
+###  Results
 
 The result is a Shiny App, useful for identifying data bias. It offers summary statistics, easy-to-view visual inspection of clinical datasets utilizing interactive plots with insights into age, gender, survival status, race and ethnicity of patients, an inspection of CT Scans saved as DICOM files, a correlation matrix for numeric data in clinical datasets, stratified analysis, t-test statistics on drug response data (IC50 values), and a comprehensive analysis of cell line responses to radiation.  
 In this app, we focused on lung adenocarcinoma, but it is useful for pan cancers.  
