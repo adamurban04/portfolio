@@ -34,6 +34,6 @@ Luckily, I still had time after the tournament to study for the exams. And here 
 | GAMES MODELLING DESIGN | A1 |
 | FOUNDATIONS OF COMPUTER SCIENCE 2 | A1 |
 
-![Picture of me playing tennis](/portfolio/images/picMeTennis.jpg)
+![Picture of me playing tennis]({{ site.baseurl }}/images/picMeTennis.jpg)
 
 Note: playing guitar is a great activity to relax
