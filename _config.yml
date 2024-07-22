@@ -1,11 +1,14 @@
 # Welcome to Jekyll!
 
 
-# DEPLOYING THE SITE TO GITHUB PAGES: (baseurl = "portfolio")
-# bundle exec jekyll build 
+# DEPLOYING THE SITE TO GITHUB PAGES: (baseurl = "portfolio") (before commit if changes were made for example for assets otherwise not needed)
+# bundle exec jekyll build
+
 
 # SERVING THE SITE LOCALLY: (baseurl = "")
-# bundle exec jekyll serve
+# bundle exec jekyll serve --config _config.yml,_config_dev.yml
+
+
 
 
 #
@@ -31,7 +34,8 @@ title: "Adam Urban"
 email: adamurban73@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Check out my GitHub / LinkedIn.
-baseurl: "portfolio" # the subpath of your site, e.g. /blog
+# Conditional baseurl
+baseurl: "{{ site.environment == 'production' ? '/portfolio' : '' }}"
 url: "http://127.0.0.1:4000" # Local development URL
 # url: "https://adamurban04.github.io/portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
