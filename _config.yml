@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 
-# DEPLOYING THE SITE TO GITHUB PAGES: (baseurl = "portfolio") (before commit if changes were made for example for assets otherwise not needed)
+# DEPLOYING THE SITE TO GITHUB PAGES: (baseurl = "portfolio") (if changes were made for example for assets otherwise not needed)
 # bundle exec jekyll build 
 
 
