@@ -8,6 +8,10 @@
 # SERVING THE SITE LOCALLY: (baseurl = "")
 # bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
+# LOCATE THE THEME FILES
+# bundle info --path minima
+
+
 
 
 
@@ -37,6 +41,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Conditional baseurl
 baseurl: "portfolio"
 url: https://adamurban04.github.io
+permalink: /:categories/:title/
 # twitter_username: jekyllrb
 linkedin_username: adamurban73
 github_username:  adamurban04

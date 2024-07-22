@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "UPSTaRT Summer Scholarship"
+title:  "UPSTaRT Summer Research"
 date:   2024-05-19 12:39:08 +0100
-categories: jekyll update
+categories: research
 custom_css: "/assets/css/custom.css"
 ---
 

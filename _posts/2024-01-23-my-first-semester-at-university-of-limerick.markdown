@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My FIRST semester at the University of Limerick"
+title:  "My 1st semester at the University of Limerick"
 date:   2024-01-23 12:39:08 +0100
-categories: jekyll update
+categories: academics
 ---
 
 **Orientation Week**
