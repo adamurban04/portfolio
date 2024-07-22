@@ -36,8 +36,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Check out my GitHub / LinkedIn.
 # Conditional baseurl
 baseurl: "portfolio"
-url: https://adamurban04.github.io/portfolio
-# url: "https://adamurban04.github.io/portfolio/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://adamurban04.github.io
 # twitter_username: jekyllrb
 linkedin_username: adamurban73
 github_username:  adamurban04
