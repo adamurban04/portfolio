@@ -36,7 +36,7 @@ While dealing with such tasks as acquiring my PPS number, applying for the SUSI 
 | FOUNDATIONS OF COMPUTER SCIENCE | A1 |
 | REPRESENTATION AND MODELLING | A1 |
 
-![Picture of UL stairs]({{ site.baseurl }}/images/ulstairsPic.jpg)
+![Picture of UL stairs]({{ "/images/ulstairsPic.jpg" | relative_url }})
 
 Note: swimming in the evening is the perfect way to clear the mind and relax
 

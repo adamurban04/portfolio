@@ -35,7 +35,7 @@ In the first week, my objective was to familiarize myself with **R**, RStudio an
 
 I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with **data visualisations** created for a Lung Adenocarcinoma [clinical dataset]((https://www.cbioportal.org/study/clinicalData?id=luad_tcga_pan_can_atlas_2018)) obtained from cBioPortal and hosted it on Shinyapps.io.
 
-![appPic1]({{ site.baseurl }}/images/app1.jpg)
+![appPic1]({{ "/images/app1.jpg" | relative_url }})
 
 ### Week 3 and Week 4
 
@@ -47,7 +47,7 @@ I added more clinical datasets and a choice for the user to select a specific da
 
 I created an R markdown notebook, which makes it easy for anyone to view the code and follow the steps of my data analysis. I also added an [image dataset](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) from NIH containing CT scans of non-small cell lung cancer patients. The app lets you get insights into the dataset and view the CT scans with its **DICOM Viewer** feature.
 
-![appPic2]({{ site.baseurl }}/images/app2.jpg)
+![appPic2]({{ "/images/app2.jpg" | relative_url }})
 
 ### Week 5 and Week 6
 
@@ -60,7 +60,7 @@ I made the plots interactive using the plotly package and added a **correlation 
 I worked on the feedback I got from the Culhane Lab, specifically **table1 R package**. With this package, I created a **stratified analysis** of clinical data by the user’s chosen category variable. This is a great asset for identifying data biases.  
 I decided to split the code into multiple files for better organisation as the source file was already reaching a thousand lines. Although for deployment purposes I also had to keep one merged file. I also updated the User Interface with styled tab headings.
 
-![appPic3]({{ site.baseurl }}/images/app3.jpg)
+![appPic3]({{ "/images/app3.jpg" | relative_url }})
 
 ### Week 7 and Week 8
 
@@ -79,7 +79,7 @@ There is also the feature of calculating the sensitivity signatures for cell lin
 - Combination Therapy: Combine radiation therapy with drugs targeting genes associated with radio-resistance to enhance treatment effectiveness.
 - Personalized Medicine: Tailor radiation therapy based on the molecular signatures of a patient’s tumor, improving treatment outcomes.
 
-![appPic4]({{ site.baseurl }}/images/app4.jpg)
+![appPic4]({{ "/images/app4.jpg" | relative_url }})
 
 ### Week 9 and Week 10
 
