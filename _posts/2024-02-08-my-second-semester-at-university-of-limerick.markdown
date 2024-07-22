@@ -21,7 +21,7 @@ There was a Patch x ISE Hackaton happening on 17th of February and I secured mys
 
 After many weeks of work, establishing the committee, promoting the club and searching for potential members, I was given the opportunity to present the club at the Clubs and Societies Council meeting. As a result, the tennis club has been officialy ratified. It is going to be a lot of work, but I believe we can make it into something big. We are starting next semester.
 
-**A Tennis Tournament and Final Exams**
+**Tennis Tournament and Final Exams**
 
 I feel like the second semester went by much faster than the first one. Before the final exams, I joined my first Irish tennis tournament at the Catholic Institute Athletic Club, where I managed to get to semifinals in the MS3 grade. It was a good experience and I even met some people from Slovakia.  
 Luckily, I still had time after the tournament to study for the exams. And here are my results.
