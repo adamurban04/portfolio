@@ -2,7 +2,7 @@
 
 
 # DEPLOYING THE SITE TO GITHUB PAGES: (baseurl = "portfolio") (before commit if changes were made for example for assets otherwise not needed)
-# bundle exec jekyll build
+# bundle exec jekyll build 
 
 
 # SERVING THE SITE LOCALLY: (baseurl = "")
