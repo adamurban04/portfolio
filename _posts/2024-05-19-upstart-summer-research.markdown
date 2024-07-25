@@ -66,8 +66,7 @@ I decided to split the code into multiple files for better organisation as the s
 
 *7th July - 15th July*
 
-I focused on exploring **RadioGx** and **PharmacoGx** R Bioconductor packages from BHKLab and a statistical test **“t-test”** to understand how I can utilise this for a radiogenomic analysis in in our Shiny App.  
-Radiogenomic analysis combines radiobiological data with genomic data to uncover insights into how different cell lines respond to radiation therapy. Utilizing tools like the T-test and RadioGx can significantly enhance our understanding of these responses and lead to more effective cancer treatments.  
+I focused on exploring **RadioGx** and **PharmacoGx** R Bioconductor packages from BHKLab and a statistical test **“t-test”** to understand how I can utilise this for radiogenomic and pharmacogenomic analyses in our Shiny App. These analyses help us understand how different cell lines respond to radiation and drug treatments, providing insights that can enhance cancer treatment strategies.
 
 *15th July - 21th July*
 
