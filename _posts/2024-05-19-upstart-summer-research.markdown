@@ -10,13 +10,13 @@ custom_css: "/assets/css/custom.css"
 
 ## Intro
 
-I am delighted I got the opportunity to work on ongoing research at UL during the summer of 2024 as part of UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track). I applied with the support of Prof. Conor Ryan and Dr Meghana Kshiragar and the project: "**Discovering Novel Biomarkers for Pan Cancers**". I also worked closely with one of my classmates James Conolly.
+I am delighted I got the opportunity to work on ongoing research at UL during the summer of 2024 as part of UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track). I applied with the support of Prof. Conor Ryan and Dr Meghana Kshiragar and the project: **"Discovering Novel Biomarkers for Pan Cancers"**. I also worked closely with one of my classmates James Conolly.
   
 In this blog post, I wrote about my experience and the outcomes of my research project.
 
 ####  Motivation (w0-w5)
 
-The motivation for this project is to create a tool that provides **both summary statistics and the means for identifying data bias** across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans.
+The motivation for this project is to create a tool that provides both summary statistics and the means for identifying data bias across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans.
 
 #### Meetings
 
@@ -29,7 +29,7 @@ During this programme I have been attending weekly meetings with my mentor and t
 
 *27th May - 3rd June*
 
-In the first week, my objective was to familiarize myself with **R**, RStudio and ShinyApp. I did this by watching YouTube videos, walking through the Learn R course on Codeacademy and following the Get Started tutorials on the official Shiny website. After that, I also read papers my advisors gave me to understand the aims and objectives and the biological part of the project.
+In the first week, my objective was to familiarize myself with R, RStudio and ShinyApp. I did this by watching YouTube videos, walking through the Learn R course on Codeacademy and following the Get Started tutorials on the official Shiny website. After that, I also read papers my advisors gave me to understand the aims and objectives and the biological part of the project.
 
 *3rd June - 10th June*
 
@@ -57,7 +57,7 @@ I made the plots interactive using the plotly package and added a **correlation 
 
 *1st July - 7th July*
 
-I worked on the feedback I got from the Culhane Lab, specifically **table1 R package**. With this package, I created a **stratified analysis** of clinical data by the user’s chosen category variable. This is a great asset for identifying data biases.  
+I worked on the feedback I got from the Culhane Lab, specifically table1 R package. With this package, I created a **stratified analysis** of clinical data by the user’s chosen category variable. This is a great asset for identifying data biases.  
 I decided to split the code into multiple files for better organisation as the source file was already reaching a thousand lines. Although for deployment purposes I also had to keep one merged file. I also updated the User Interface with styled tab headings.
 
 ![appPic3]({{ "/images/app3.jpg" | relative_url }})
@@ -66,13 +66,13 @@ I decided to split the code into multiple files for better organisation as the s
 
 *7th July - 15th July*
 
-I focused on exploring **RadioGx** and **PharmacoGx** R Bioconductor packages from BHKLab and a statistical test **“t-test”** to understand how I can utilise this for radiogenomic and pharmacogenomic analyses in our Shiny App. These analyses help us understand how different cell lines respond to radiation and drug treatments, providing insights that can enhance cancer treatment strategies.
+I focused on exploring RadioGx and PharmacoGx R Bioconductor packages from BHKLab and a statistical test “t-test” to understand how I can utilise this for radiogenomic and pharmacogenomic analyses in our Shiny App. These analyses help us understand how different cell lines respond to radiation and drug treatments, providing insights that can enhance cancer treatment strategies.
 
 *15th July - 21th July*
 
 I updated the correlation matrix to only show the upper triangular area (since the matrix is symmetric), which makes the analysis easier.  
-I employed a **T-test**, a statistical method used to determine if there are significant differences between the means of two groups, to **compare the drug sensitivity** of different drugs, cell lines or tissue types.  
-I utilised **RadioGx** package for comprehensive analysis of **cell line responses to radiation**, which can be useful when determining the correct dosage for a patient.  
+I employed a T-test, a statistical method used to determine if there are significant differences between the means of two groups, to compare the drug sensitivity of different drugs, cell lines or tissue types.  
+I utilised RadioGx package for comprehensive analysis of cell line responses to radiation, which can be useful when determining the correct dosage for a patient.  
 There is also the feature of calculating the sensitivity signatures for cell lines based on molecular data, such as RNA expression profiles. The function identifies which molecular features (genes) are associated with the cell lines' response to radiation. This can be useful for:
 - Biomarker Discovery: Identify genes that can serve as biomarkers for predicting radiation sensitivity or resistance in cancer cells
 - Combination Therapy: Combine radiation therapy with drugs targeting genes associated with radio-resistance to enhance treatment effectiveness.
@@ -84,8 +84,8 @@ There is also the feature of calculating the sensitivity signatures for cell lin
 
 *21st June - 29th July*
 
-I utilised **PharmacoGx** for drug sensitivity analysis showing a **drug-response curve for a selected drug and cell line**. It also allows for the calculation of drug sensitivity signatures and can be useful when identifying drug sensitivity or resistance biomarkers.
-I have also started working on **scRNA-seq data analysis** with **Seurat** package.
+I utilised PharmacoGx for drug sensitivity analysis showing a drug-response curve for a selected drug and cell line. It also allows for the calculation of drug sensitivity signatures and can be useful when identifying drug sensitivity or resistance biomarkers.
+I have also started working on scRNA-seq data analysis with Seurat package.
 
 *29th June - 5th August*
 
