@@ -84,7 +84,8 @@ There is also the feature of calculating the sensitivity signatures for cell lin
 
 *21st June - 29th July*
 
-...
+I utilised **PharmacoGx** for drug sensitivity analysis showing a **drug-response curve for a selected drug and cell line**. It also allows for the calculation of drug sensitivity signatures and can be useful when identifying drug sensitivity or resistance biomarkers.
+I have also started working on **scRNA-seq data analysis** with **Seurat** package.
 
 *29th June - 5th August*
 
