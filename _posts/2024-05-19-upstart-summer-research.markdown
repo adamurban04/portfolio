@@ -10,13 +10,11 @@ custom_css: "/assets/css/custom.css"
 
 ## Intro
 
-I am delighted I got the opportunity to work on ongoing research at UL during the summer of 2024 as part of UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track). I applied with the support of Prof. Conor Ryan and Dr Meghana Kshiragar and the project: **"Discovering Novel Biomarkers for Pan Cancers"**. I also worked closely with one of my classmates James Conolly.
-  
-In this blog post, I wrote about my experience and the outcomes of my research project.
+This summer, I had the privilege of participating in the UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track) at UL. With the support of Prof. Conor Ryan and Dr. Meghana Kshiragar, I contributed to the project: "Discovering Novel Biomarkers for Pan Cancers." I also collaborated closely with my classmate, James Conolly. This post details my experiences, methodologies, and outcomes from this research project.
 
-####  Motivation (w0-w5)
+####  Motivation
 
-The motivation for this project is to create a tool that provides both summary statistics and the means for identifying data bias across multiple modalities such as tabular clinical data, genomic data or image data like CT, MRI and FMRI scans.
+The primary motivation behind this project was to develop a tool capable of providing summary statistics and identifying data biases across various modalities, including tabular clinical data, genomic data, and imaging data (e.g., CT, MRI, and fMRI scans). Addressing data bias is critical, as it ensures the accuracy and generalizability of research findings, especially in a diverse field like cancer research.
 
 #### Meetings
 
@@ -25,53 +23,52 @@ During this programme I have been attending weekly meetings with my mentor and t
 ---  
 <br>
 
-### Week 1 and Week 2
+### Week 1 and Week 2 (Onboarding and Initial Development)
 
 *27th May - 3rd June*
 
-In the first week, my objective was to familiarize myself with R, RStudio and ShinyApp. I did this by watching YouTube videos, walking through the Learn R course on Codeacademy and following the Get Started tutorials on the official Shiny website. After that, I also read papers my advisors gave me to understand the aims and objectives and the biological part of the project.
+I began by familiarizing myself with R, RStudio, and ShinyApp. This involved completing the Learn R course on Codecademy, watching relevant YouTube tutorials, and exploring the Get Started guides on the official Shiny website. Additionally, I reviewed several key papers provided by my advisors to better understand the project’s biological context and goals.
 
 *3rd June - 10th June*
 
-I built the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) with **data visualisations** created for a Lung Adenocarcinoma [clinical dataset]((https://www.cbioportal.org/study/clinicalData?id=luad_tcga_pan_can_atlas_2018)) obtained from cBioPortal and hosted it on Shinyapps.io.
+I developed the first version of [my R Shiny App](https://adamurban.shinyapps.io/Research/) to visualize a Lung Adenocarcinoma [clinical dataset]((https://www.cbioportal.org/study/clinicalData?id=luad_tcga_pan_can_atlas_2018)) from cBioPortal. The app was hosted on Shinyapps.io, providing an accessible platform for data exploration.
 
 ![appPic1]({{ "/images/app1.jpg" | relative_url }})
 
-### Week 3 and Week 4
+### Week 3 and Week 4 (Expansion and DICOM Viewer)
 
 *10th June - 17th June*
 
-I added more clinical datasets and a choice for the user to select a specific dataset and get insights into them. I also gave a presentation showcasing my progress.
+I expanded the app to include additional clinical datasets, allowing users to select specific datasets for analysis. I also incorporated feedback from my advisors during a progress presentation, focusing on enhancing the app’s functionality and user interface.
 
 *17th June - 24th June*
 
-I created an R markdown notebook, which makes it easy for anyone to view the code and follow the steps of my data analysis. I also added an [image dataset](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) from NIH containing CT scans of non-small cell lung cancer patients. The app lets you get insights into the dataset and view the CT scans with its **DICOM Viewer** feature.
+To facilitate reproducibility and transparency, I created an R Markdown notebook that documents the data analysis process. Additionally, I integrated an [image dataset](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) containing CT scans of non-small cell lung cancer patients. This dataset can be explored using a DICOM Viewer feature within the app.
 
 ![appPic2]({{ "/images/app2.jpg" | relative_url }})
 
-### Week 5 and Week 6
+### Week 5 and Week 6 (Interactivity and Statistical Analysis)
 
 *24th June - 1st July*
 
-I made the plots interactive using the plotly package and added a **correlation matrix** for numeric data in the clinical datasets. I also gave a presentation in Culhane Lab (School of Medicine) on the topic "Data bias visualisation tool".
+I enhanced the app by making plots interactive using the Plotly package. I also introduced a correlation matrix for numeric data in clinical datasets, facilitating the identification of potential relationships between variables. Additionaly, I gave a presentation in Culhane Lab (School of Medicine) on the topic "Data bias visualisation tool".
 
 *1st July - 7th July*
 
-I worked on the feedback I got from the Culhane Lab, specifically table1 R package. With this package, I created a **stratified analysis** of clinical data by the user’s chosen category variable. This is a great asset for identifying data biases.  
-I decided to split the code into multiple files for better organisation as the source file was already reaching a thousand lines. Although for deployment purposes I also had to keep one merged file. I also updated the User Interface with styled tab headings.
+Based on feedback from the Culhane Lab, I incorporated the table1 R package, enabling stratified analysis of clinical data based on user-selected category variables. This functionality is particularly useful for identifying data biases. Additionally, I updated the user interface was with styled tab headings for improved navigation.
 
 ![appPic3]({{ "/images/app3.jpg" | relative_url }})
 
-### Week 7 and Week 8
+### Week 7 and Week 8 (T-test and Radiogenomic Analysis)
 
 *7th July - 15th July*
 
-I focused on exploring RadioGx and PharmacoGx R Bioconductor packages from BHKLab and a statistical test “t-test” to understand how I can utilise this for radiogenomic and pharmacogenomic analyses in our Shiny App. These analyses help us understand how different cell lines respond to radiation and drug treatments, providing insights that can enhance cancer treatment strategies.
+I began exploring the RadioGx and PharmacoGx R Bioconductor packages from BHKLab, which are used for radiogenomic and pharmacogenomic analyses. These tools enable the analysis of how different cell lines respond to radiation and drug treatments, providing insights that could enhance cancer treatment strategies.
 
 *15th July - 21th July*
 
-I updated the correlation matrix to only show the upper triangular area (since the matrix is symmetric), which makes the analysis easier.  
-I employed a T-test, a statistical method used to determine if there are significant differences between the means of two groups, to compare the drug sensitivity of different drugs, cell lines or tissue types.  
+I implemented a T-test to compare the drug sensitivity of various drugs, cell lines, or tissue types.
+
 I utilised RadioGx package for comprehensive analysis of cell line responses to radiation, which can be useful when determining the correct dosage for a patient.  
 There is also the feature of calculating the sensitivity signatures for cell lines based on molecular data, such as RNA expression profiles. The function identifies which molecular features (genes) are associated with the cell lines' response to radiation. This can be useful for:
 - Biomarker Discovery: Identify genes that can serve as biomarkers for predicting radiation sensitivity or resistance in cancer cells
@@ -80,24 +77,45 @@ There is also the feature of calculating the sensitivity signatures for cell lin
 
 ![appPic4]({{ "/images/app4.jpg" | relative_url }})
 
-### Week 9 and Week 10
+### Week 9 and Week 10 (Pharmacogenomic Analysis and Report)
 
 *21st June - 29th July*
 
 I utilised PharmacoGx for drug sensitivity analysis showing a drug-response curve for a selected drug and cell line. It also allows for the calculation of drug sensitivity signatures and can be useful when identifying drug sensitivity or resistance biomarkers.
-I have also started working on scRNA-seq data analysis with Seurat package.
+
+In the final stage of my internship, I focused on single-cell RNA sequencing (scRNA-seq) data analysis using the Seurat package. The key steps included:
+
+1. Data Import and Seurat Object Creation:  
+- We converted the raw expression matrix, including gene expression data, features (genes), and barcodes (individual cells), into a Seurat object for analysis. 
+
+2. Quality Control
+- We filtered out low-quality cells, such as those with low feature counts, low RNA totals, or high mitochondrial gene expression, to ensure that only high-quality cells were included in the analysis.
+  
+These filtering steps are crucial for ensuring that the remaining dataset consists of high-quality cells, leading to more accurate and reliable downstream analysis.
+
+3. Feature Selection:
+- We identified highly variable genes across cells, which are critical for distinguishing different cell types.
+
+4. Principal Component Analysis (PCA):
+- PCA was performed to reduce data dimensionality while preserving variability, helping to identify key sources of variation among cells.
+
+5. Dimensionality Reduction and Visualization:
+- We used t-SNE and UMAP for visualizing high-dimensional data in two dimensions, enabling the discovery of cell clusters that may represent different cell types or states. These clusters can be explored further for biological interpretation and novel biomarker identification.
 
 *29th June - 5th August*
 
-...  
+In the final week, I focused on finalizing my report, ensuring that all documentation and code were well-organized and accessible.
   
 
 ---  
 <br>
 
-###  Results
+###  Results 
 
-The result is a Shiny App, useful for identifying data bias. It offers summary statistics, easy-to-view visual inspection of clinical datasets utilizing interactive plots with insights into age, gender, survival status, race and ethnicity of patients, an inspection of CT Scans saved as DICOM files, a correlation matrix for numeric data in clinical datasets, stratified analysis, t-test statistics on drug response data (IC50 values), and a comprehensive analysis of cell line responses to radiation.  
-In this app, we focused on lung adenocarcinoma, but it is useful for pan cancers.  
+The outcome of this project is a Shiny App designed to identify data bias and provide summary statistics. The app offers various functionalities, including interactive plots for clinical datasets, insights into demographic variables (age, gender, survival status, race, and ethnicity), CT scan visualization through a DICOM Viewer, a correlation matrix for numeric clinical data, stratified analysis, and t-test statistics on drug response data (IC50 values). Additionally, the app supports radiogenomic and pharmacogenomic analyses. While we focused particularly on lung adenocarcinoma, the app is useful for pan-cancer research.
 
-You can view the code and resources for this tool at its [GitHub repository](https://github.com/adamurban04/UPSTaRT) or the actual Shiny app at [shinyapps.io](https://adamurban.shinyapps.io/Research/)
+The code and resources for this tool are available on its [GitHub repository](https://github.com/adamurban04/UPSTaRT), and the Shiny app can be accessed on[shinyapps.io](https://adamurban.shinyapps.io/Research/)
+
+### Final Thoughts
+
+This internship has provided me with invaluable experience in data analysis, tool development, and collaborative research. The skills and insights gained will undoubtedly contribute to my future work in bioinformatics. I look forward to continuing this journey and exploring further opportunities to apply these skills.

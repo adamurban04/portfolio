@@ -13,7 +13,7 @@ I am a Computer Science student at the University of Limerick. I created this po
 
 **UL campus and facilities**
 
-University of Limerick is a fantastic university. It has top class facilities, spacious library with big study rooms easily available to book for groups of people, great record of graduate employment rate. The beatiful green campus is a big thing and its value should never be underestimated. Walking alongside the Shannon river coming back from shopping was one of the most calming experiences in my first year. The Computer Science building with all its lab rooms filled with Windows/MAC computers is a great space to work on your projects. It's an amazing feeling to be on the fourth floor in the evening and watch all the lamps shining in the dark below the building.
+University of Limerick is a fantastic university. It has top class facilities, spacious library with big study rooms easily available to book for groups of people, great record of graduate employment rate. The beautiful green campus is a big thing and its value should not be underestimated. Walking alongside the Shannon river coming back from shopping was one of the most calming experiences in my first year. The Computer Science building with all its lab rooms filled with Windows/MAC computers is a great space to work on your projects. It's an amazing feeling to be on the fourth floor in the evening and watch all the lamps shining in the dark below the building.
 
 **People and Communities**
 
