@@ -90,8 +90,6 @@ In the final stage of my internship, I focused on single-cell RNA sequencing (sc
 
 2. Quality Control
 - We filtered out low-quality cells, such as those with low feature counts, low RNA totals, or high mitochondrial gene expression, to ensure that only high-quality cells were included in the analysis.
-  
-These filtering steps are crucial for ensuring that the remaining dataset consists of high-quality cells, leading to more accurate and reliable downstream analysis.
 
 3. Feature Selection:
 - We identified highly variable genes across cells, which are critical for distinguishing different cell types.
@@ -105,7 +103,9 @@ These filtering steps are crucial for ensuring that the remaining dataset consis
 *29th June - 5th August*
 
 In the final week, I focused on finalizing my report, ensuring that all documentation and code were well-organized and accessible.
-  
+
+![appPic5]({{ "/images/app5.jpg" | relative_url }})
+
 
 ---  
 <br>
@@ -114,8 +114,8 @@ In the final week, I focused on finalizing my report, ensuring that all document
 
 The outcome of this project is a Shiny App designed to identify data bias and provide summary statistics. The app offers various functionalities, including interactive plots for clinical datasets, insights into demographic variables (age, gender, survival status, race, and ethnicity), CT scan visualization through a DICOM Viewer, a correlation matrix for numeric clinical data, stratified analysis, and t-test statistics on drug response data (IC50 values). Additionally, the app supports radiogenomic and pharmacogenomic analyses. While we focused particularly on lung adenocarcinoma, the app is useful for pan-cancer research.
 
-The code and resources for this tool are available on its [GitHub repository](https://github.com/adamurban04/UPSTaRT), and the Shiny app can be accessed on[shinyapps.io](https://adamurban.shinyapps.io/Research/)
+The code and resources for this tool are available on its [GitHub repository](https://github.com/adamurban04/UPSTaRT), and the Shiny app can be accessed on [shinyapps.io](https://adamurban.shinyapps.io/Research/)
 
-### Final Thoughts
+#### Final Thoughts
 
 This internship has provided me with invaluable experience in data analysis, tool development, and collaborative research. The skills and insights gained will undoubtedly contribute to my future work in bioinformatics. I look forward to continuing this journey and exploring further opportunities to apply these skills.
