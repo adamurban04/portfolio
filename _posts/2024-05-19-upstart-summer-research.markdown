@@ -6,8 +6,6 @@ categories: research
 custom_css: "/assets/css/custom.css"
 ---
 
-***[Active]***
-
 ## Intro
 
 This summer, I had the privilege of participating in the UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track) at UL. With the support of Prof. Conor Ryan and Dr. Meghana Kshiragar, I contributed to the project: "Discovering Novel Biomarkers for Pan Cancers." I also collaborated closely with my classmate, James Conolly. This post details my experiences, methodologies, and outcomes from this research project.
