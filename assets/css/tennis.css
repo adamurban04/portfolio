@@ -10,7 +10,7 @@ body {
 }
 
 /* Headings */ 
-h1, h2, h3, h4, h5, h6 {
+h2 {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: #c5b414; /* Primary color for headings */
 }
