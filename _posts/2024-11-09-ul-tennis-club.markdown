@@ -6,15 +6,15 @@ categories: academics
 tags: [clubs, study abroad, Ireland]
 ---
 
-## Purpose
+### Purpose
 
 The purpose of this post is to document my efforts in establishing a UL Tennis Club, possibly helping other students interested in starting their own clubs.
 
-## Why a Tennis Club?
+### Why a Tennis Club?
 
 I've often been asked what motivated me to set up a Tennis Club at UL. When I accepted the offer to study at this university and discovered there wasn’t already a tennis club, I felt disappointed. I've played tennis from a young age and it's always been a big part of my life. I belive that tennis is a wonderful game, an individual sport but still a great way to socialize. I wanted to do everything I could to give people the chance to play and perhaps discover a passion for it.
 
-## Timeline
+### Timeline
 
 **First Meeting**
 
@@ -36,4 +36,5 @@ By sharing a Google Form on Instagram and in various university groups, we far e
 
 During the summer holidays, I worked on unclocking our UL Wolves page, which members can use to join the club. At the start of the next semester, we participated in a career fair at the UL Sports Arena, which went particularly well. By the end of September, 152 students had paid for their memberships, and since then, we’ve added 25 more, bringing our total to 177 active members.
 
-![tennisclubfair]({{ "/images/tennisclubfair.jpg" | relative_url }})
+![Tennis club fair]({{ "/images/tennisclubfair.jpg" | relative_url }})
+![Tennis Club Fairs]({{ "/images/picMeULsport.jpg" | relative_url }})
