@@ -3,7 +3,6 @@ layout: post
 title: "UL Tennis Club"
 date: 2024-11-09 20:42:08 +0100
 categories: academics
-custom_css: "/assets/css/tennis.css"
 ---
 
 ### Purpose
@@ -36,4 +35,4 @@ By sharing a Google Form on Instagram and in various university groups, we far e
 
 During the summer holidays, I worked on unclocking our UL Wolves page, which members can use to join the club. At the start of the next semester, we participated in a career fair at the UL Sports Arena, which went particularly well. By the end of September, 152 students had paid for their memberships, and since then, we’ve added 25 more, bringing our total to 177 active members.
 
-![Tennis Club Fair]({{ "/images/tenisfair.jpg" | relative_url }})
+![TC Fair]({{ "/images/tenisfair.jpg" | relative_url }})
