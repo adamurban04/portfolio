@@ -4,7 +4,7 @@
 body {
     font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: #111; /* Text color */
-    background-color: #fffad3; /* Background color for the page */
+    background-color: #fdfdfd; /* Background color for the page */
     margin: 0;
     padding: 0;
 }
@@ -12,7 +12,7 @@ body {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color: #e0d01f; /* Primary color for headings */
+    color: #d3c015; /* Primary color for headings */
 }
 
 h1 {
