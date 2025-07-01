@@ -3,6 +3,7 @@ layout: post
 title:  "My 1st semester at the University of Limerick"
 categories: [first-year-experience]
 semester: 1
+permalink: /module-review/my-first-semester-at-university-of-limerick/
 hidden: true
 ---
 

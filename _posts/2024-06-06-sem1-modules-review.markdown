@@ -3,6 +3,7 @@ layout: post
 title:  "My 1st semester at the University of Limerick"
 categories: [module-review]
 semester: 1
+permalink: /module-review/sem1-modules-review/
 hidden: true
 ---
 
