@@ -23,7 +23,7 @@ To say something about the people in our course; most students I interacted with
 
 Read more about the modules I undertook here:
 
-## Semester Reviews
+## Semester Reviews 
 
 <ul>
   {% assign reviews = site.categories.module-review | sort: 'semester' %}
