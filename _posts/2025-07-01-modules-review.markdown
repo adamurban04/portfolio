@@ -28,6 +28,7 @@ Read more about the modules I undertook here:
 <ul>
   {% assign reviews = site.categories.module-review | sort: 'semester' %}
   {% for post in reviews %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   {% endfor %}
 </ul>
+

@@ -12,6 +12,6 @@ I wrote about my first year experience as a Computer Science student at UL. Read
 <ul>
   {% assign reviews = site.categories.first-year-experience | sort: 'semester' %}
   {% for post in reviews %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   {% endfor %}
 </ul>
