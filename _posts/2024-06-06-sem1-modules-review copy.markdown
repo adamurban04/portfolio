@@ -3,6 +3,7 @@ layout: post
 title:  "My 1st semester at the University of Limerick"
 categories: [module-review]
 semester: 1
+hidden: true
 ---
 
 **First Semester Modules (LM121)**

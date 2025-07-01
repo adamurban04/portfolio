@@ -3,11 +3,12 @@ layout: post
 title:  "My 2nd semester at the University of Limerick"
 categories: [first-year-experience]
 semester: 2
+hidden: true
 ---
 
 **Holidays**
 
- During the holidays, I dedicated time to improving my coding skills and preparing for the second semester. I expanded my coding portfolio and gained insights into implementing Java interfaces for GUIs. After spending beautiful time with my family and friends, and also attending The Kellner Family Foundation scholars' meeting, I returned to Ireland.
+During the holidays, I dedicated time to improving my coding skills and preparing for the second semester. I expanded my coding portfolio and gained insights into implementing Java interfaces for GUIs. After spending beautiful time with my family and friends, and also attending The Kellner Family Foundation scholars' meeting, I returned to Ireland.
 
 **Back in Ireland and the Global COOP Programme**
 

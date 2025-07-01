@@ -3,6 +3,7 @@ layout: post
 title:  "My 2nd semester at the University of Limerick"
 categories: [module-review]
 semester: 2
+hidden: true
 ---
 
 **Second Semester Modules (LM121)**
