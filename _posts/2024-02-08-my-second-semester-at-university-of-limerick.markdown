@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My 2nd semester at the University of Limerick"
-date:   2024-04-04 12:39:08 +0100
-categories: academics
+categories: [first-year-experience]
+semester: 2
 ---
 
 **Holidays**
@@ -37,4 +37,4 @@ Luckily, I still had time after the tournament to study for the exams. And here 
 ![Picture of me playing tennis]({{ "/images/picMeTennis.jpg" | relative_url }})
 
 
-Note: playing guitar is a great activity to relax
+Note: playing guitar is a very fun activity too

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My 1st semester at the University of Limerick"
-date:   2024-01-23 12:39:08 +0100
-categories: academics
+categories: [first-year-experience]
+semester: 1
 ---
 
 **Orientation Week**
@@ -38,5 +38,5 @@ While dealing with such tasks as acquiring my PPS number, applying for the SUSI 
 
 ![Picture of UL stairs]({{ "/images/ulstairsPic.jpg" | relative_url }})
 
-Note: swimming in the evening is the perfect way to clear the mind and relax
+Note: swimming in the evening is the perfect way to clear the mind
 
