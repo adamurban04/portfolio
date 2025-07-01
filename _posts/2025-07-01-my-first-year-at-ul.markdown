@@ -14,4 +14,4 @@ I wrote about my first year experience as a Computer Science student at UL. Read
   {% for post in reviews %}
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   {% endfor %}
-</ul>
+</ul> 
