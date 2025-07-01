@@ -39,7 +39,7 @@ email: adamurban73@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Check out my GitHub / LinkedIn.
 # Conditional baseurl
-baseurl: "portfolio"
+baseurl: "/portfolio"
 url: https://adamurban04.github.io
 permalink: /:categories/:title/
 # twitter_username: jekyllrb
