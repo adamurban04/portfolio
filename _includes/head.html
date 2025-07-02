@@ -4,17 +4,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <!-- Favicon -->
-  <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.png" | relative_url }}">
-  <!-- Additional Icons -->
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | relative_url }}">
+
   <!-- My Conditional CSSs -->
   {% if page.custom_css %}
     <link rel="stylesheet" href="{{ page.custom_css | relative_url }}">
   {% endif %}
   {% if page.special_css %}
     <link rel="stylesheet" href="{{ page.special_css | relative_url }}">
+  {% endif %}
+  {% if page.expandable_css %}
+    <link rel="stylesheet" href="{{ page.expandable_css | relative_url }}">
+  {% endif %}
+  {% if page.tennis2_css %}
+    <link rel="stylesheet" href="{{ page.tennis2_css | relative_url }}">
   {% endif %}
 
   {%- feed_meta -%}

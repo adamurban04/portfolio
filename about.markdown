@@ -9,7 +9,7 @@ special_css: "/assets/css/special.css"
 
 Greetings! I'm delighted to welcome you to my personal website, a dedicated space where I document my academic journey, share valuable experiences, and showcase noteworthy projects.
 
-![Picture of me in Frankfurt]({{ "/images/frankfurtpic.JPG" | relative_url }})
+![Picture of me in Frankfurt]({{ "/images/frankfurtpic.jpg" | relative_url }})
 
 # About Me
 
