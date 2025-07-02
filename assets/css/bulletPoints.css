@@ -1,9 +1,9 @@
-ul {
+.bp-list {
   list-style-type: disc;
   padding-left: 1.5rem;
 }
 
-ul li {
+.bp-list li {
   display: list-item;
   margin-bottom: 0.5rem;
 }

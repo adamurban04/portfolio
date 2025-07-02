@@ -16,8 +16,8 @@ Read more about the modules I undertook here:
 
 ## Semester Reviews 
 
-<ul>
-    <li><a href="{{ '/portfolio/module-review/ul-in-general' | relative_url }}">UL in general</a></li>
+<ul class="bp-list">
+    <li><a href="{{ '/module-review/ul-in-general' | relative_url }}">UL in general</a></li>
   {% assign reviews = site.categories.module-review | sort: 'semester' %}
   {% for post in reviews %}
     <li>
