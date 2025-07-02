@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "My 1st semester at the University of Limerick"
+title:  "UL Computer Science - Semester 1"
 categories: [module-review]
 semester: 1
 permalink: /module-review/sem1-modules-review/
 hidden: true
 ---
-
-**First Semester Modules (LM121)**
-
-There are 5 modules in the first semester. All of them are compulsory and there are no elective modules.
 
 **Introduction to Programming (CS4141)**
 

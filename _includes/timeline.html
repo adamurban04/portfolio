@@ -1,0 +1,75 @@
+<style>
+  .horizontal-timeline {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 15px 10px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    max-width: 700px;
+    margin: 2.5em auto;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+
+  .timeline-point {
+    text-align: center;
+    flex: 1;
+    position: relative;
+  }
+
+  .timeline-point:not(:last-child)::after {
+    content: "";
+    position: absolute;
+    top: 14px;
+    right: -50%;
+    width: 100%;
+    height: 2px;
+    background-color: #ccc;
+    z-index: 0;
+  }
+
+  .timeline-circle {
+    width: 14px;
+    height: 14px;
+    background-color: #424242;
+    border-radius: 50%;
+    margin: 0 auto 6px;
+    z-index: 1;
+    position: relative;
+  }
+
+  .timeline-label {
+    font-size: 0.85rem;
+    font-weight: bold;
+  }
+
+  .timeline-date {
+    font-size: 0.75rem;
+    color: #424242;
+  }
+</style>
+
+<div class="horizontal-timeline">
+  <div class="timeline-point">
+    <div class="timeline-circle"></div>
+    <div class="timeline-label">ZŠ u Kapličky (Czechia)</div>
+    <div class="timeline-date">6–11</div>
+  </div>
+  <div class="timeline-point">
+    <div class="timeline-circle"></div>
+    <div class="timeline-label">GOA Orlová (Czechia)</div>
+    <div class="timeline-date">11–19</div>
+  </div>
+  <div class="timeline-point">
+    <div class="timeline-circle"></div>
+    <div class="timeline-label">UL (Ireland)</div>
+    <div class="timeline-date">19–21</div>
+  </div>
+  <div class="timeline-point">
+    <div class="timeline-circle"></div>
+    <div class="timeline-label">SchuF (Germany)</div>
+    <div class="timeline-date">21</div>
+  </div>
+</div>

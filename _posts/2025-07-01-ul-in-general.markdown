@@ -1,8 +1,9 @@
 ---
 title: "UL in General"
 layout: post
-categories: academics
+categories: [module-review]
 tags: [scholarship, study abroad, Ireland]
+hidden: true
 ---
 
 **UL campus and facilities**

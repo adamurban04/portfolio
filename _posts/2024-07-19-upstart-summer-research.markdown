@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UPSTaRT Summer Research"
+title:  "UPSTaRT Summer Research 🔬"
 categories: research
 custom_css: "/assets/css/custom.css"
 ---
@@ -109,9 +109,9 @@ In the final week, I focused on finalizing my report, ensuring that all document
 
 ###  Results 
 
-The outcome of this project is a Shiny App designed to identify data bias and provide summary statistics. The app offers various functionalities, including interactive plots for clinical datasets, insights into demographic variables (age, gender, survival status, race, and ethnicity), CT scan visualization through a DICOM Viewer, a correlation matrix for numeric clinical data, stratified analysis, and t-test statistics on drug response data (IC50 values). Additionally, the app supports radiogenomic and pharmacogenomic analyses. While we focused particularly on lung adenocarcinoma, the app is useful for pan-cancer research.
+The outcome of this project is a Shiny App we named DataPulse designed to identify data bias and provide summary statistics. The app offers various functionalities, including interactive plots for clinical datasets, insights into demographic variables (age, gender, survival status, race, and ethnicity), CT scan visualization through a DICOM Viewer, a correlation matrix for numeric clinical data, stratified analysis, and t-test statistics on drug response data (IC50 values). Additionally, the app supports radiogenomic and pharmacogenomic analyses. While we focused particularly on lung adenocarcinoma, the app is useful for pan-cancer research.
 
-The code and resources for this tool are available on its [GitHub repository](https://github.com/adamurban04/UPSTaRT), and the Shiny app can be accessed on [shinyapps.io](https://adamurban.shinyapps.io/Research/)
+The code and resources for this tool are available on its [GitHub repository](https://github.com/adamurban04/DataPulse), and the Shiny app can be accessed on [shinyapps.io](https://adamurban.shinyapps.io/DataPulse/)
 
 #### Final Thoughts
 

@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "My 2nd semester at the University of Limerick"
+title:  "UL Computer Science - Semester 2"
 categories: [module-review]
 semester: 2
 permalink: /module-review/sem2-modules-review/
 hidden: true
 ---
-
-**Second Semester Modules (LM121)**
-
-Simililarly to the first semester, there are 5 modules in the second semester. All of them are compulsory and there are no elective modules.
 
 **Computer Mathematics (MA4402)**
 

@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "How I got to study in Ireland!"
+title:  "How I got to study in Ireland! 🇮🇪"
 categories: academics
 tags: [scholarship, study abroad, Ireland]
 ---
 
 **Origins**
 
-Moving to Ireland was a significant step in my life.  
+Moving to <span style="color: #009B48;">Ire</span><span style="color: #FF7900;">land</span> was a significant step in my life.
 This is how it all began...
 
-I am originally from Orlová, a small town in the Czech Republic, where my education journey started at the age of 6 in the school „ZŠ U Kapličky“. 5 years later, I passed the entrance exam for the 8-year gymnasium, where I was able to truly develop my knowledge and way of thinking.
+I am originally from Orlová, a small town in the <span style="color: #D7141A;">Czech</span> <span style="color: #11457E;">Republic</span>
+, where my education journey started at the age of 6 in the school „[ZŠ U Kapličky](https://www.zsukaplicky.cz/)“. 5 years later, I passed the entrance exam for the 8-year gymnasium, where I was able to truly develop my knowledge and way of thinking.
 
 **Aspiring for Ireland**
 
@@ -30,3 +31,5 @@ I felt fortunate to be there, and I still do. Just 10 days before the flight, I 
 >_“If I were to think of something I wouldn’t want to live without, it would be passion. Not fearing to get excited about something and pursuing it is one of the most important philosophies I try to follow. To high school students contemplating studying abroad, I would say: Do not be afraid to take a step into the unknown. You’ll be surprised how much you can accomplish when you don’t let fear stop you._
 
 \- Translation of the last paragraph I wrote in Czech for my [scholar-webpage on TKFF website](https://www.kellnerfoundation.cz/univerzity/stipendiste/adam-urban):
+
+{% include timeline.html %}

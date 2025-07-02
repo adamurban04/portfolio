@@ -71,15 +71,7 @@ code {
     font-family: 'Courier New', Courier, monospace; /* Monospaced font for inline code */
 }
 
-/* Lists */
-ul, ol {
-    margin: 1em 0;
-    padding-left: 2em;
-}
 
-li {
-    margin-bottom: 0.5em;
-}
 
 /* Links */
 a {
