@@ -6,7 +6,7 @@ tags: [scholarship, study abroad, Ireland]
 custom_css: "/assets/css/bulletPoints.css"
 ---
 
-**Semesters Diary**
+**Semesters Diary** 
 
 Read about my first year experience as a Computer Science student at UL.
 
