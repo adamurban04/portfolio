@@ -3,6 +3,7 @@ title: "My First Year at UL"
 layout: post
 categories: academics
 tags: [scholarship, study abroad, Ireland]
+custom_css: "/assets/css/bulletPoints.css"
 ---
 
 **Semesters Diary**

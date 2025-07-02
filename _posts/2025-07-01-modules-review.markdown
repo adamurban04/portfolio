@@ -3,6 +3,7 @@ title: "My University Module Reviews"
 layout: post
 categories: academics
 tags: [scholarship, study abroad, Ireland]
+custom_css: "/assets/css/bulletPoints.css"
 ---
 
 **Objectives of this post**
@@ -16,7 +17,7 @@ Read more about the modules I undertook here:
 ## Semester Reviews 
 
 <ul>
-    <li><a href="/portfolio/module-review/ul-in-general">UL in general</a></li>
+    <li><a href="{{ '/portfolio/module-review/ul-in-general' | relative_url }}">UL in general</a></li>
   {% assign reviews = site.categories.module-review | sort: 'semester' %}
   {% for post in reviews %}
     <li>
