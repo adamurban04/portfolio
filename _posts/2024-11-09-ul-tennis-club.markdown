@@ -2,6 +2,7 @@
 layout: post
 title: "UL Tennis Club"
 categories: academics
+custom_css: "/assets/css/custom2.css"
 ---
 
 ### Purpose

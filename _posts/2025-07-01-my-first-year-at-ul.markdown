@@ -7,11 +7,13 @@ tags: [scholarship, study abroad, Ireland]
 
 **Semesters Diary**
 
-I wrote about my first year experience as a Computer Science student at UL. Read about it here:
+Read about my first year experience as a Computer Science student at UL.
 
 <ul>
   {% assign reviews = site.categories.first-year-experience | sort: 'semester' %}
   {% for post in reviews %}
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
   {% endfor %}
-</ul> 
+</ul>
