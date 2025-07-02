@@ -54,4 +54,4 @@ After getting access to the funding we organised the first UL Tennis Club event,
 ![TC Fair]({{ "/images/tennisEq.jpg" | relative_url }})
 
 <div style="text-align: center; margin-bottom: 0.7em;">C&S Ball (2025)</div>
-![TC Fair]({{ "/images/ball.jpg" | relative_url }})
+![TC Fair]({{ "/images/ballPic.jpg" | relative_url }})
