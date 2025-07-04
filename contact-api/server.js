@@ -65,7 +65,7 @@ app.post('/api/messages', async (req, res) => {
 app.get('/api/ping', (req, res) => {
   console.log('GET /api/ping received');
   res.send('pong');
-});
+}); 
 
 
 // Start server
