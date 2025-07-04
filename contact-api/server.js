@@ -39,18 +39,28 @@ mongoose.connect(process.env.MONGO_URI, {
   process.exit(1);
 });
 
-// Routes
 app.post('/api/messages', async (req, res) => {
   try {
+    console.log('📥 New POST request received with body:', req.body);
+
     const { name, email, message } = req.body;
+
+    if (!name || !email || !message) {
+      console.warn('⚠️ Missing fields in request body');
+      return res.status(400).json({ success: false, message: 'All fields are required.' });
+    }
+
     const newMessage = new Message({ name, email, message });
     await newMessage.save();
+
+    console.log('✅ Message saved to database');
     res.status(201).json({ success: true, message: 'Message saved successfully.' });
   } catch (error) {
     console.error('❌ Error saving message:', error);
     res.status(500).json({ success: false, message: 'Server error.' });
   }
 });
+
 
 // Default route
 app.get('/', (req, res) => {
