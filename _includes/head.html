@@ -23,6 +23,10 @@
   {% if page.expandable_css %}
     <link rel="stylesheet" href="{{ page.expandable_css | relative_url }}">
   {% endif %}
+  {% if page.contact_css %}
+    <link rel="stylesheet" href="{{ page.contact_css | relative_url }}">
+  {% endif %}
+  
 
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}

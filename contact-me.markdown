@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Contact
+title: Contact Me
 permalink: /contact/
 nav: true
 ---
 
-<h1>Contact Me</h1>
+<link rel="stylesheet" href="{{ '/assets/css/contact.css' | relative_url }}">
+
+You can contact me through the following form.
 
 <form id="contact-form">
-  <input type="text" name="name" required />
-  <input type="email" name="email" required />
-  <textarea name="message" required></textarea>
+  <label for="name">Name</label>
+  <input type="text" name="name" id="name" required />
+  <label for="message">Message</label>
+  <textarea name="message" id="message" required></textarea>
   <button type="submit">Send</button>
 </form>
 
@@ -45,3 +48,5 @@ nav: true
     }
   });
 </script>
+
+
