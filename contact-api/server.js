@@ -45,14 +45,14 @@ app.post('/api/messages', async (req, res) => {
   try {
     console.log('📥 New POST request received with body:', req.body);
 
-    const { name, email, message } = req.body;
+    const { name, message } = req.body;
+    if (!name || !message) {
+      console.log("⚠️ Missing fields in request body");
+    return res.status(400).json({ success: false, error: 'Name and message are required.' });
+  }
 
-    if (!name || !email || !message) {
-      console.warn('⚠️ Missing fields in request body');
-      return res.status(400).json({ success: false, message: 'All fields are required.' });
-    }
 
-    const newMessage = new Message({ name, email, message });
+    const newMessage = new Message({ name, message });
     await newMessage.save();
 
     console.log('✅ Message saved to database');
