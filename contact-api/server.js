@@ -50,7 +50,7 @@ app.post('/api/messages', async (req, res) => {
       console.log("⚠️ Missing fields in request body");
     return res.status(400).json({ success: false, error: 'Name and message are required.' });
   }
-
+ 
 
     const newMessage = new Message({ name, message });
     await newMessage.save();
