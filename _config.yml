@@ -54,6 +54,12 @@ plugins:
   - jekyll-google_search_console_verification_file
   - jekyll-sitemap
 
+minima:
+  nav_pages:
+    - contact-me.markdown
+    - about.markdown
+    
+
 
 google_search_console:
   verification_file_code: 315ef566293b6467

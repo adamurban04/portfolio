@@ -1,9 +1,8 @@
 ---
-layout: post
-title:  "Contact Me"
-categories: academics
-
-tags: [scholarship, study abroad, Ireland]
+layout: page
+title: Contact
+permalink: /contact/
+nav: true
 ---
 
 <h1>Contact Me</h1>
