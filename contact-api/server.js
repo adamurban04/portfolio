@@ -62,10 +62,11 @@ app.post('/api/messages', async (req, res) => {
 });
 
 
-// Default route
-app.get('/', (req, res) => {
-  res.send('🌐 Portfolio backend is running!');
+app.get('/api/ping', (req, res) => {
+  console.log('GET /api/ping received');
+  res.send('pong');
 });
+
 
 // Start server
 app.listen(PORT, () => {
