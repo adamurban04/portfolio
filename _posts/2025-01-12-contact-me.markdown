@@ -7,43 +7,41 @@ tags: [scholarship, study abroad, Ireland]
 
 <h1>Contact Me</h1>
 
-<form id="contactForm">
-  <input type="text" name="name" placeholder="Your Name" required><br>
-  <input type="email" name="email" placeholder="Your Email" required><br>
-  <textarea name="message" placeholder="Your Message" required></textarea><br>
+<form id="contact-form">
+  <input type="text" name="name" required />
+  <input type="email" name="email" required />
+  <textarea name="message" required></textarea>
   <button type="submit">Send</button>
 </form>
 
-<p id="statusMessage" style="margin-top:10px;"></p>
-
 <script>
-document.getElementById("contactForm").addEventListener("submit", async function(e) {
-  e.preventDefault();
+  document.getElementById('contact-form').addEventListener('submit', async function (e) {
+    e.preventDefault();
 
-  const form = e.target;
-  const data = {
-    name: form.name.value,
-    email: form.email.value,
-    message: form.message.value
-  };
+    const formData = new FormData(this);
+    const payload = {
+      name: formData.get('name'),
+      email: formData.get('email'),
+      message: formData.get('message')
+    };
 
-  try {
-    const response = await fetch("http://localhost:3000/api/contact", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(data)
-    });
+    try {
+      const res = await fetch('https://portfolio-iruy.onrender.com/api/messages', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
 
-    const result = await response.json();
-
-    if (result.success) {
-      document.getElementById("statusMessage").innerText = "✅ Message sent successfully!";
-      form.reset();
-    } else {
-      document.getElementById("statusMessage").innerText = "❌ Error sending message.";
+      const data = await res.json();
+      if (data.success) {
+        alert('Message sent!');
+        this.reset();
+      } else {
+        alert('Something went wrong.');
+      }
+    } catch (err) {
+      alert('Error submitting form.');
+      console.error(err);
     }
-  } catch (err) {
-    document.getElementById("statusMessage").innerText = "❌ Network error.";
-  }
-});
+  });
 </script>
