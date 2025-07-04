@@ -24,7 +24,6 @@ You can contact me through the following form.
     const formData = new FormData(this);
     const payload = {
       name: formData.get('name'),
-      email: formData.get('email'),
       message: formData.get('message')
     };
 
