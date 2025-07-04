@@ -1,5 +1,23 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# Ignore Jekyll build output and caches
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+
+# Ignore dependencies folder
+vendor/
+
+# Ignore environment variable files
+.env
+
+# Ignore node_modules if you have Node.js backend
+node_modules/
+
+# Ignore logs and debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore OS-specific files (optional but recommended)
+.DS_Store
+Thumbs.db
