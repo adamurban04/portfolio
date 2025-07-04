@@ -1,6 +1,8 @@
 This is my personal website, where I share my academic journey.
 
-- Created with Jekyll
+- Using a Jekyll Frontend
+- A Node.js + Express Backend
+- A live mongoDB Atlas database (deployed on Render)
 - Hosted via GitHub pages
 - Indexed by Google Search Console
 
