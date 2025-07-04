@@ -39,7 +39,7 @@ During the summer holidays 2024, I worked on unclocking our UL Wolves page, whic
 
 **Tennis Equipment**
 
-We have successfully opened a new bank account for the tennis club and thanks to the funding acquired from membership fees, we were able to secure tennis equipment for our members such as Wilson Blade tennis rackets and tennis balls.
+We have successfully opened a new bank account for the tennis club and thanks to the funding of over 2000 euros acquired from membership fees, we were able to secure tennis equipment for our members such as Wilson Blade tennis rackets and tennis balls.
 
 **First Event**
 
