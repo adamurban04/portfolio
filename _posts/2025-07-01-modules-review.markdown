@@ -3,6 +3,7 @@ title: "UL Computer Systems - Reviews 🗒️"
 layout: post
 categories: academics
 tags: [scholarship, study abroad, Ireland]
+hidden: true
 custom_css: "/assets/css/expandable.css"
 ---
 

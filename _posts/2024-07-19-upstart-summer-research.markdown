@@ -5,9 +5,18 @@ categories: research
 custom_css: "/assets/css/custom.css"
 ---
 
+**DataPulse**: An Interactive Dashboard for Statistical and Exploratory Analysis of Multimodal Healthcare Data in Shiny.
+
+<details>
+  <summary> View the Research Poster</summary>
+  <img src="{{ '/images/posterUpstart.jpg' | relative_url }}" alt="posterUpstart" style="max-width: 100%; margin-top: 10px;" />
+</details>
+
+<br>
+
 ## Intro
 
-This summer, I had the privilege of participating in the UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track) at UL. With the support of Prof. Conor Ryan and Dr. Meghana Kshiragar, I contributed to the project: "Discovering Novel Biomarkers for Pan Cancers." I also collaborated closely with my classmate, James Conolly. This post details my experiences, methodologies, and outcomes from this research project.
+This summer, I had the privilege of participating in the UPSTaRT (S&E Undergraduate Programme of Summer Training and Research Track) at UL. With the support of Prof. Conor Ryan and Dr. Meghana Kshiragar, I contributed to the project: *"Discovering Novel Biomarkers for Pan Cancers."* I also collaborated closely with my classmate, James Conolly. This post details my experiences, methodologies, and outcomes from this research project. The final output of our work was later named DataPulse.
 
 ####  Motivation
 

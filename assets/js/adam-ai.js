@@ -26,7 +26,7 @@ function changeMood() {
 
   const thought = thoughts[Math.floor(Math.random() * thoughts.length)];
   bubble.textContent = thought.text;
-  avatar.src = basePath + `adam-${thought.mood}.jpg`;  // Make sure your images have .jpg extension
+  avatar.src = basePath + `adam-${thought.mood}.png`;  // Make sure your images have .png extension
   console.log('Changing mood:', thought.mood, thought.text);
 }
 
