@@ -5,6 +5,8 @@ permalink: /about/
 special_css: "/assets/css/special.css"
 ---
 
+{%- include ai-adam.html -%}
+
 # Welcome to My Personal Website
 
 Greetings! I'm delighted to welcome you to my personal website, a dedicated space where I document my academic journey, share valuable experiences, and showcase noteworthy projects.

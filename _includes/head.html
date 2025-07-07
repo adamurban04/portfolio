@@ -10,12 +10,11 @@
   <link rel="shortcut icon" type="image/x-icon" href="{{ "/favicon.png" | relative_url }}">
   <!-- Additional Icons -->
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16x16.png" | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/ai-adam.css' | relative_url }}">
+
   <!-- My Conditional CSSs -->
   {% if page.custom_css %}
     <link rel="stylesheet" href="{{ page.custom_css | relative_url }}">
-  {% endif %}
-  {% if page.special_css %}
-    <link rel="stylesheet" href="{{ page.special_css | relative_url }}">
   {% endif %}
   {% if page.expandable_css %}
     <link rel="stylesheet" href="{{ page.expandable_css | relative_url }}">
@@ -26,6 +25,8 @@
   {% if page.contact_css %}
     <link rel="stylesheet" href="{{ page.contact_css | relative_url }}">
   {% endif %}
+
+  
   
 
   {%- feed_meta -%}

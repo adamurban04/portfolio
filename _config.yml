@@ -64,6 +64,9 @@ minima:
 google_search_console:
   verification_file_code: 315ef566293b6467
 
+sass:
+  quiet_deps: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
