@@ -41,6 +41,8 @@ mongoose.connect(process.env.MONGO_URI, {
   process.exit(1);
 });
 
+// to handle POST requests to save messages
+// This endpoint will save the name and message to the MongoDB database
 app.post('/api/messages', async (req, res) => {
   try {
     console.log('📥 New POST request received with body:', req.body);
@@ -63,11 +65,16 @@ app.post('/api/messages', async (req, res) => {
   }
 });
 
-
+// to test the API
 app.get('/api/ping', (req, res) => {
   console.log('GET /api/ping received');
   res.send('pong');
 }); 
+
+// to keep the server alive
+app.get('/healtz', (req, res) => {
+  res.status(200).send('OK');
+});
 
 
 // Start server
