@@ -54,10 +54,10 @@ plugins:
   - jekyll-google_search_console_verification_file
   - jekyll-sitemap
 
-minima:
-  nav_pages:
-    - contact-me.markdown
-    - about.markdown
+header_pages:
+  - contact-me.markdown
+  - about.markdown
+
     
 
 
